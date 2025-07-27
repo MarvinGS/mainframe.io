@@ -32,7 +32,7 @@ nicht mit auf der Karte.
   Ausgestattet mit Lötstationen, Messgeräten und Bauteilen für das Entwickeln,
   Reparieren und Testen elektronischer Schaltungen.
 
-- 🚤 [**3D-Labor**](/spacewalk/3D-lab)
+- 🚤 [**3D-Labor**](/spacewalk/3d-lab)
 
   Raum mit verschiedenen 3D-Druckern zur Umsetzung digitaler Modelle in
   physische Objekte.
