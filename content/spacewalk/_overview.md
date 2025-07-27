@@ -11,7 +11,7 @@ darin enthaltenen Räume beziehungsweise Werkstätten.
 ## 3D-Rundgang und Karte
 
 Du kannst wahlweise den Mainframe mithilfe eines
-[3D-Rundgangs](/bilder/panorama) oder mit einer
+[virtuellen 3D-Rundgangs](/images/panorama) oder mit einer
 [interaktiven Karte](https://map.kreativitaet-trifft-technik.de/) erkunden.
 
 Dort sieht man den großen Teil unserer Räume. Die Radstelle, sowie die Holz- und
