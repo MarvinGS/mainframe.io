@@ -46,3 +46,10 @@ Die Parkflächen im Postgebäude haben eine Schrankenanlage, die mit Bankkarte
 
 Der Bahnhofsparkplatz [P Bf.] ist nicht empfehlenswert, weil er von Mo-So 07:00
 bis 24:00 kostenpflichtig ist und auch spät abends noch kontrolliert wird.
+
+## Barrierefreiheit
+
+Mit dem Rollstuhl oder Rollator könnt ihr den Mainframe barrierefrei über einen
+Personenaufzug erreichen. Auch die Holzwerkstatt und Metallwerkstatt im Keller
+sind so erreichbar. Die Radstelle befindet sich ebenerdig im Erdgeschoss und ist
+stufenlos zugänglich.
