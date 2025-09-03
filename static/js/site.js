@@ -2,7 +2,7 @@
    status handling
 */
 
-const StatusApiUrl = "https://status.kreativitaet-trifft-technik.de/api/statusStream?spaceOpen=1&radstelleOpen=1&machining=1&woodworking=1&lab3dOpen=1";
+const StatusApiUrl = "https://status.kreativitaet-trifft-technik.de/api/statusStream?spaceOpen=1";
 
 function set_status(room, state) {
     console.info("Updating room state", room, state);
@@ -117,10 +117,6 @@ function init_status() {
     };
 
     status_source.addEventListener('spaceOpen', on_status_change);
-    status_source.addEventListener('lab3dOpen', on_status_change);
-    status_source.addEventListener('radstelleOpen', on_status_change);
-    status_source.addEventListener('machining', on_status_change);
-    status_source.addEventListener('woodworking', on_status_change);
 
     status_source.addEventListener('keepalive', function (e) {
         last_keepalive = Date.now();
