@@ -21,9 +21,6 @@
                         {% set section_name = "about" %}
                         {% include "navbar-pagelist.html" %}
 
-                        {% set section_name = "verein" %}
-                        {% include "navbar-pagelist.html" %}
-
                         {% set section_name = "spacewalk" %}
                         {% include "navbar-pagelist.html" %}
 
@@ -58,6 +55,15 @@
                             <a class="text-white text-decoration-none d-block py-2 pe-3" role="button" aria-expanded="false"
                                href='{{ get_url(path="@/contact.md#" ~ trans(key="arrival", lang=lang) | lower, lang=lang) }}'>
                                 {{ trans(key="arrival", lang=lang) }}
+                            </a>
+                        </li>
+                    </ul>
+
+                    <ul class="navbar-nav navbar-right">
+                        <li class="nav-item">
+                            <a class="text-white text-decoration-none d-block py-2 pe-3" role="button"
+                               aria-expanded="false" href="https://www.kreativitaet-trifft-technik.de/" >
+                               Zum Verein 🔗
                             </a>
                         </li>
                     </ul>

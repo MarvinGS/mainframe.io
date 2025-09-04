@@ -1,4 +1,4 @@
-# Website of the Hackspace Oldenburg / Mainframe / Kreativität trifft Technik e.V.
+# Website of the Hackspace Oldenburg / Mainframe
 
 ## TODO
 
