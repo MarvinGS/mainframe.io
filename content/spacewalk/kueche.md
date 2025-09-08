@@ -1,5 +1,5 @@
 +++
-title = "Küche"
+title = "Küche und Grillplatz"
 weight = 200
 +++
 
@@ -13,6 +13,11 @@ Manchmal wird hier zusammen gekocht, manchmal wird auch einfach Essen bestellt.
 {{ resize_image(path="/static/media/spacewalk/kueche6.png", height=500, width=500, op="fit") }}
 
 {{ resize_image(path="/static/media/spacewalk/kueche5.jpg", height=500, width=500, op="fit") }}
+
+## Grillplatz
+
+Zusätzlich zur Küche haben wir die Möglichkeitn, in einem überdachten Bereich zu
+grillen. Diesen Bereich bauen wir aktuell noch auf und verschönern ihn weiter. Fotos folgen!
 
 ## Shop
 

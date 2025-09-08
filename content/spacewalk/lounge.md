@@ -25,7 +25,7 @@ Spinde sowie Regale mit allgemeinem Werkzeug.
 
 ![Conference](/media/spacewalk/freiflaeche.jpg)
 
-## Lounge
+## Lounge & Ruheraum
 
 Es gibt drei verschiedene Lounge-Bereiche im Space.
 
@@ -37,10 +37,11 @@ In der kleinen Lounge vorne sind zwei Sofas. Hier befindet sich auch unsere
 "Sample-Ecke" mit diversen Ausstellungsstücken aus verschiednene Bereichen im
 Mainframe.
 
-Die Lounge ganz hinten im Space ist ein Ruhe-Raum, der sich für eine kurze Pause
-oder kleine Besprechungen eignet. Dieser Raum hat einen direkten Blick auf die
-Gleise am Hauptbahnhof und wird daher auch "Trainspotting-Lounge" oder "Gleis 0"
-genannt.
+Die Lounge ganz hinten im Space ist ein Ruheraum, der sich als Rückzugsort
+eignet für alle, die eine Pause vom Trubel brauchen. Auch kleine Besprechungen
+können hier abgehalten werden, falls gerade niemand anders den Raum benötigt.
+Dieser Raum hat einen direkten Blick auf die Gleise am Hauptbahnhof und wird
+daher auch "Trainspotting-Lounge" oder "Gleis 0" genannt.
 
 So sieht es in der großen Lounge aus:
 

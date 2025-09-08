@@ -18,7 +18,7 @@ Viele der Veranstaltungen im Kalender finden regelmäßig statt.
 
 Hier ist eine aktuelle Auswahl.
 
-### 🗣 Plenum -- Offenes Vereinstreffen
+### 🗣 Plenum -- Offenes Space-Treffen
 
 * Findet alle anderthalb Wochen dienstags oder samstags statt
 * Besprochen werden organisatorische und inhaltliche Themen rund um den Space
@@ -32,27 +32,29 @@ Hier ist eine aktuelle Auswahl.
 
 ### 👾 Programmierclubs für Kinder und Jugendliche
 
-* Zusammen organisiert mit CoderDojo und Jugend Hackt
+* CoderDojos: Alle zwei Wochen am Freitag oder Wochenende
 * Einführung ins Programmieren mit Tools wie Scratch oder Mikrocontrollern (z. B. Arduino)
 * Betreuung durch engagierte Ehrenamtliche
 * Keine Vorkenntnisse erforderlich
 
 ### 🕹 LAN-Party / Video Game Night
 
-* Gemeinsame Veranstaltung mit der Fachschaft Informatik der Universität Oldenburg
-* Zweimal jährlich, speziell für Studierende (v. a. Erstsemester)
-* Verschiedene Spiel-Genres und Formate
+* Dreitägige LAN-Party im Space: In dieser Zeit ist meist durchgängig geöffnet
+* Zwei- bis viermal jährlich, zum Beispiel zum Start eines neuen Semesters an der Uni
+* Verschiedene Spiel-Genres und Formate, zum Beispiel mit PC, Konsole, VR-Brille
+  oder Smartphone
+* Manche dieser Events führen wir zusammen mit externen Partnern durch
 
 ### 🎲 Brettspiel-Abende
 
 * Offener Spieleabend mit Brett- und Kartenspielen
-* Zum Beispiel der "Mensa-Spieleabend"
+* Zum Beispiel der „Mensa-Spieleabend“
 
 ### 💸 Veranstaltungen zum Thema Finanzen
 
 * Formate wie „Roast my Portfolio“ oder der „Cashflow-Abend“
 * Austausch zu Geldanlage, Finanzbildung und persönlichen Strategien
-* Auch für Einsteiger:innen geeignet
+* Auch für Einsteiger*innen geeignet
 
 ## ✨ Weitere Highlights
 
@@ -60,5 +62,13 @@ Zusätzlich finden über das Jahr verteilt weitere Aktionen statt, zum Beispiel:
 
 * 🍳 Space Cooking -- gemeinsames Kochen oder Grillen im Space
 * 🧶 Workshops in der Schnittstelle -- z. B. T-Shirt-Druck oder kreatives Gestalten mit Textilien
+* 🎭 Treffen der Gruppe „Improvisationstheater“
+* 🎮 „Offline-Gaming“, bei dem regelmäßig Konsolenspiele gespielt werden
 * 🏝️ Ferienpass-Aktionen in den Sommerferien in Kooperation mit der Stadt Oldenburg
 * 🏫 Aktionstage für Schüler*innen, zum Beispiel zum Thema Nachhaltigkeit, Löten oder Programmieren
+
+Diese Liste ist nicht vollständig und es haben auch schon ganz unterschiedliche
+andere Events bei uns stattgefunden. Wenn du Lust hast, etwas Eigenes auf die
+Beine zu stellen, zum Beispiel einen Stricktreff, eine Doppelkopf-Gruppe, eine
+Hausautomatisierungs-Runde oder auch etwas ganz anderes, dann sprich uns gerne
+an! Neue Aktionen sind jederzeit willkommen.

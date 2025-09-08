@@ -20,7 +20,7 @@ nicht mit auf der Karte.
 
 <!--- TODO: Fotos mit Link Panorama-Rundgang und Karte oder Foto Außenansicht oder einfach Mainframe Logo --->
 
-## Räume
+## Bereiche
 
 - 🚨 [**Lasercutter**](/spacewalk/lasercutter)
 
@@ -69,22 +69,23 @@ nicht mit auf der Karte.
   70er-Jahren, das aktuell funktionsfähig ist und für Demo-Zwecke verwendet
   wird.
 
-- 🍳 [**Küche**](/spacewalk/kueche)
+- 🍳 [**Küche und Grillplatz**](/spacewalk/kueche)
 
-  Gemeinschaftsküche zum Kochen, Essen und für geselliges Beisammensein. Hier
-  befindet sich auch unser Shop-System, in dem man Getränke und Snacks erwerben
-  kann.
+  Es gibt bei uns eine Gemeinschaftsküche (Selbstversorger-Küche) zum Kochen,
+  Essen und für geselliges Beisammensein sowie einen überdachten Grillplatz. In
+  der Küche befindet sich auch unser Shop-System, in dem man Getränke und Snacks
+  erwerben kann.
 
 - 🛋 [**Conference, Lounges und Freifläche**](/spacewalk/lounge)
 
   Flexible Räume zum Arbeiten, für Präsentationen, Workshops oder einfach zum
-  Entspannen und Austauschen.
+  Entspannen und Austauschen. Es gibt auch einen separaten Ruheraum.
 
-## Nutzung der Maschinen
+## Nutzung der Werkzeuge und Maschinen
 
 Viele der kleineren Werkzeuge im Space dürfen einfach so verwendet werden. Wenn
 du Material verbrauchst -- zum Beispiel Lötzinn, Stoffe und Garne, oder Filament
-zum 3D-Drucken, dann freuen sich die jeweiligen Räume über eine kleine Spende,
+zum 3D-Drucken, dann freuen sich die jeweiligen Bereiche über eine kleine Spende,
 damit Nachschub gekauft werden kann.
 
 An größeren Maschinen findest du oft einen gelben oder roten **"Owner"-Aufkleber**,

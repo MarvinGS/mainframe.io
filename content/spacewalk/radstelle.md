@@ -1,12 +1,12 @@
 +++
-title = "Radstelle (Fahrrad)"
+title = "Radstelle"
 weight = 60
 +++
 
 Die Radstelle ist eine Selbsthilfewerkstatt für Fahrräder. Hier können Räder
 repariert, gewartet oder sogar umgebaut werden.
 
-Dafür steht jede Menge Werkszeug, einige Maschinen (inklusive einem
+Dafür steht jede Menge Werkzeug, einige Maschinen (inklusive einem
 Schweißgerät) aber auch ein wenig Verbrauchsmaterial zur
 Verfügung -- Ersatzteile sollten allerdings selbst mitgebracht werden.
 
@@ -22,5 +22,3 @@ Nicht immer wenn der Space geöffnet ist, ist auch die Radstelle zugänglich.
 Schau am Besten im [Terminkalender](@/calendar.md) oder im
 [Status](https://status.mainframe.io) nach, wann und ob die Radstelle geöffnet
 ist.
-
-<!-- TODO: Fotos Radstelle >
