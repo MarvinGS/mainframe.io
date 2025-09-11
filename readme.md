@@ -2,13 +2,17 @@
 
 ## TODO
 
-- Make taxonomy listings more easily accessible
-- Fix image sizes when using markdown to include image
-- Fix display of long headings in mobile view
+- Fix mini calendar (sometimes doesn't show any entries)
+- Remove "Verein" once new ktt.de site is up
+- Create a more visible link to the site of ktt.de
+- English translations where applicable (or remove english altogether for now)
 
 ## Potential Improvements
 
+- Write more about Do's & Don't in the space (at about/about.md)
+- Write more about self-organised groups and how we make decisions
 - Move space status to top on mobile
+- Add more than 5 calendar appointments in the short view
 
 ## Development
 

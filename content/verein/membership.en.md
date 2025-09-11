@@ -9,10 +9,10 @@ The association can provide an accumulative donation receipt for the total amoun
 
 Every member can choose his or her member ID, as long as it's still available when he/her joins the association. A list of member IDs is available in our [Wiki](https://wiki.mainframe.io/public/Verein/Mitgliedschaft).
 
-[Download Membership Form](https://www.mainframe.io/data/club/membership_form.pdf)
-
+[Download Membership Form](https://www.mainframe.io/media/membership_form.pdf)
 
 # Articles of Association and Membership Fee Regulations
+
 You can find links to our (German) articles of association and the membership free regulations of the non-profit registered association »Kreativität trifft Technik« (creativity meets technology) below. Apart from that the Documents are also available from their [Git-Repository](https://github.com/ktt-ol/articles-of-association) as LaTeX source.
 
-[Download Articles of Association](https://www.mainframe.io/data/club/articles-of-association.pdf) | [Download Membership Fee Regulations](https://www.mainframe.io/data/club/membership-fee-regulations.pdf) | [Download der Hausordnung](https://www.mainframe.io/data/club/house-rules.pdf)
+[Download Articles of Association](https://www.mainframe.io/media/articles-of-association.pdf) | [Download Membership Fee Regulations](https://www.mainframe.io/media/membership-fee-regulations.pdf) | [Download der Hausordnung](https://www.mainframe.io/media/house-rules.pdf)

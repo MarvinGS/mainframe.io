@@ -103,7 +103,7 @@ kann.
 Schon seit einigen Jahren gibt es in unserem Space mehrere Strickmaschinen.
 Lange standen sie ungenutzt herum, doch inzwischen haben wir sie gründlich
 gereinigt, teilweise repariert und wieder in Betrieb genommen. Mit viel Einsatz
--- und ein paar selbstgebauten Ersatzteilen-- laufen sie jetzt richtig gut.
+-- und ein paar selbstgebauten Ersatzteilen -- laufen sie jetzt richtig gut.
 
 Aktuell sind es drei funktionsfähige Maschinen: Eine große Doppelbett-Maschine
 von Singer (Singer Memo II), die auch programmiert werden kann, und zwei

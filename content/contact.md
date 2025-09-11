@@ -15,8 +15,9 @@ Der Mainframe liegt direkt am Oldenburger Hauptbahnhof im alten Postgebäude.
 Am besten erreichst du uns mit den öffentlichen Verkehrsmitteln, dem Fahrrad
 oder zu Fuß.
 
-Links neben dem Briefkasten befindet sich eine Klingel. Du kannst gerne einfach
-klingeln oder am Space-Telefon anrufen, dann machen wir dir auf.
+Links neben dem Briefkasten befindet sich eine Klingel, die grün leuchtet, wenn
+der Space geöffnet ist. Du kannst gerne einfach klingeln oder am Space-Telefon
+anrufen, dann machen wir dir auf.
 
 ![Building](/media/img/building.jpg)
 
@@ -49,7 +50,13 @@ bis 24:00 kostenpflichtig ist und auch spät abends noch kontrolliert wird.
 
 ## Barrierefreiheit
 
-Mit dem Rollstuhl oder Rollator könnt ihr den Mainframe barrierefrei über einen
+Mit dem Rollstuhl oder Rollator kannst du den Mainframe barrierefrei über einen
 Personenaufzug erreichen. Auch die Holzwerkstatt und Metallwerkstatt im Keller
 sind so erreichbar. Die Radstelle befindet sich ebenerdig im Erdgeschoss und ist
 stufenlos zugänglich.
+
+Ein rollstuhlgerechtes WC haben wir leider noch nicht, es gibt allerdings
+mehrere in anderen Bereichen des Hauses, zum Beispiel im
+[Oldenburger Computer-Museum](https://computermuseum-oldenburg.de/).
+Wenn das OCM geöffnet ist oder du dich vorher bei uns meldest, bekommen wir also
+auch das hin.
