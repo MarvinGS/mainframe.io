@@ -12,9 +12,9 @@ Brettspielgruppen und vieles mehr.
 
 Der Raum ist mit einem Beamer und Whiteboards ausgestattet.
 
-![Conference](/media/spacewalk/conference.jpg)
+![Conference](../../media/spacewalk/conference.jpg)
 
-![Conference](/media/spacewalk/conference2.jpg)
+![Conference](../../media/spacewalk/conference2.jpg)
 
 ## Freifläche
 
@@ -23,7 +23,7 @@ Arbeiten am PC vorhanden. Größere Veranstaltungen wie zum Beispiel das Plenum
 oder LAN-Partys finden hier statt. Gleichzeitig ist an den Wänden Platz für
 Spinde sowie Regale mit allgemeinem Werkzeug.
 
-![Conference](/media/spacewalk/freiflaeche.jpg)
+![Conference](../../media/spacewalk/freiflaeche.jpg)
 
 ## Lounge & Ruheraum
 
@@ -45,6 +45,6 @@ daher auch "Trainspotting-Lounge" oder "Gleis 0" genannt.
 
 So sieht es in der großen Lounge aus:
 
-![Conference](/media/spacewalk/lounge4.jpg)
+![Conference](../../media/spacewalk/lounge4.jpg)
 
-![Conference](/media/spacewalk/lounge3.jpg)
+![Conference](../../media/spacewalk/lounge3.jpg)

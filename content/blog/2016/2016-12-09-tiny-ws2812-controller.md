@@ -26,7 +26,7 @@ LED must be connected to the pin labeled WS2812b. There is also a mode pin, that
 should be connected to some GPIO of the system controlling the ATtiny85. More on
 that later.
 
-![Hardware Connection](/media/blog/2016/tiny-ws2812-controller/attiny-connections.svg)
+![Hardware Connection](../../../media/blog/2016/tiny-ws2812-controller/attiny-connections.svg)
 
 The ATtiny85 firmware consists of 3 parts: A driver for the ws2812b LEDs, a driver
 for the I²C interface and some glue-code. Let's have a look at each part.
@@ -42,7 +42,7 @@ diagram below, you can see, that we must be able to switch the pin at least
 within 350ns. As you can see the timing may be possible, but while we are
 updating the LEDs it's impossible to do anything else.
 
-![WS2812b timings](/media/blog/2016/tiny-ws2812-controller/ws2812b-timings.svg)
+![WS2812b timings](../../../media/blog/2016/tiny-ws2812-controller/ws2812b-timings.svg)
 
 The driver itself solves the timing issues by disabling interrupts, since any
 ever so short interruption will break the ws2812b timing. Then it loops over

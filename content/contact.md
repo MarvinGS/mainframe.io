@@ -9,7 +9,7 @@ weight = 20
 
 Der Mainframe liegt direkt am Oldenburger Hauptbahnhof im alten Postgebäude.
 
-![OpenStreetMap](/media/img/openstreetmap.png)
+![OpenStreetMap](../media/img/openstreetmap.png)
 <!-- TODO: openstreetmap karte -->
 
 Am besten erreichst du uns mit den öffentlichen Verkehrsmitteln, dem Fahrrad
@@ -19,7 +19,7 @@ Links neben dem Briefkasten befindet sich eine Klingel, die grün leuchtet, wenn
 der Space geöffnet ist. Du kannst gerne einfach klingeln oder am Space-Telefon
 anrufen, dann machen wir dir auf.
 
-![Building](/media/img/building.jpg)
+![Building](../media/img/building.jpg)
 
 ## Anreise mit den Öffentlichen
 

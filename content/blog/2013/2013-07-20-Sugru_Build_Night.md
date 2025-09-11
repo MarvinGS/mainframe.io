@@ -39,10 +39,10 @@ Pad: [https://pad.kreativitaet-trifft-technik.de/p/BuildNight_Sugru](https://pad
 
 # Ergebnisse
 
-![Griff für Lockpicking Tool](/media/blog/2013/Sugru_Build_Night/img1.jpg)
-![Fix/Deko für Fahrradlampe](/media/blog/2013/Sugru_Build_Night/img2.jpg)
-![Aufhängung für Kochutensilien](/media/blog/2013/Sugru_Build_Night/img3.jpg)
-![Reperatur Notebook-Fuß](/media/blog/2013/Sugru_Build_Night/img4.jpg)
+![Griff für Lockpicking Tool](../../../media/blog/2013/Sugru_Build_Night/img1.jpg)
+![Fix/Deko für Fahrradlampe](../../../media/blog/2013/Sugru_Build_Night/img2.jpg)
+![Aufhängung für Kochutensilien](../../../media/blog/2013/Sugru_Build_Night/img3.jpg)
+![Reperatur Notebook-Fuß](../../../media/blog/2013/Sugru_Build_Night/img4.jpg)
 
 
 

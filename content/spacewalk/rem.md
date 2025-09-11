@@ -3,7 +3,7 @@ title = "REM"
 weight = 190
 +++
 
-![REM](/media/spacewalk/machines/rem-preview.jpg)
+![REM](../../media/spacewalk/machines/rem-preview.jpg)
 
 Seit September 2018 verfügen wir auch über ein Rasterelektronenmikroskop, ein
 **Tesla BS300**.

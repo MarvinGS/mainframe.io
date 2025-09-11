@@ -49,7 +49,7 @@ Behelfsplotter umgewandelt. Dank G-Code Steuerung und angeschlossener
 Verarbeitung von SVG-Dateien konnten dann gestern Pacmans, Nikolaushäuser und
 KtT-Logos geplottet werden. Und so sieht das ganze aus.
 
-![](/media/blog/2012/styroschneider/0000.jpg)
+![](../../../media/blog/2012/styroschneider/0000.jpg)
 
 [Video 1](https://youtube.com/watch?v=r4XIohDZIYs)
 [Video 2](https://youtube.com/watch?v=vNpmt4UVJ5w)

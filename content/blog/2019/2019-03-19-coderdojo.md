@@ -12,7 +12,7 @@ Typ = ["Event"]
 thumbnail = "/media/blog/2019/coderdojo/CoderDojoThumb.jpg"
 +++
 
-![](/media/blog/2019/coderdojo/CoderDojoHeader.jpg)
+![](../../../media/blog/2019/coderdojo/CoderDojoHeader.jpg)
 
 CoderDojo ist eine weltweite Bewegung und davon überzeugt, dass Programmieren eine Fähigkeit ist, die in unserer
 modernen Welt immer wichtiger wird. Jeden Tag gibt es neue Entwicklungen und Technologie findet Einzug in immer mehr

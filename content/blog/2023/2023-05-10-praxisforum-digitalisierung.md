@@ -34,9 +34,9 @@ Internetverbindung für das Praxisforum Digitalisierung zugreifen konnten.
 
 Das übergeordnete Netzdesign auf der physischen Schicht sieht dabei wie folgt aus.
 
-![](/media/blog/2023/praxisforum-digitalisierung/01-overview-lan.png)
+![](../../../media/blog/2023/praxisforum-digitalisierung/01-overview-lan.png)
 
-![](/media/blog/2023/praxisforum-digitalisierung/01-01-wan.png)
+![](../../../media/blog/2023/praxisforum-digitalisierung/01-01-wan.png)
 
 Das Besondere an dieser Situation war, dass wir das OCM, welches direkt ein Stockwerk über uns liegt, mit zusätzlichen
 Access Points unterstützten um die erhöhte Menge an Gästen performant bedienen zu können.
@@ -53,7 +53,7 @@ Adressen ausgeschöpft ist.
 Das WLAN erstreckt sich im Mainframe vom Treppenaufgang bis zur Toilette (ja wir haben auch auf der Toiletten gutes
 WLAN) mit insgesamt 5x 802.11ac fähigen Access Points.
 
-![](/media/blog/2023/praxisforum-digitalisierung/02-overview-wlan.png)
+![](../../../media/blog/2023/praxisforum-digitalisierung/02-overview-wlan.png)
 
 Um ein möglichst leistungsfähiges WLAN anbieten zu können, ist die Infrastruktur so gebaut, dass es so gut wie keine
 Kanalüberlappungen mit anderen Access Points gibt und somit Interferenzen verhindert werden. Zudem werden die WLANs für
@@ -67,11 +67,11 @@ Point in der Lounge.
 
 Nachstehend sind die Verläufe des Tages für Usermenge pro Lokation dargestellt mit Zeitverlauf von 09:00 - 21:00 Uhr.
 
-![](/media/blog/2023/praxisforum-digitalisierung/03-laser.png)
+![](../../../media/blog/2023/praxisforum-digitalisierung/03-laser.png)
 
-![](/media/blog/2023/praxisforum-digitalisierung/04-lounge.png)
+![](../../../media/blog/2023/praxisforum-digitalisierung/04-lounge.png)
 
-![](/media/blog/2023/praxisforum-digitalisierung/05-vorstand.png)
+![](../../../media/blog/2023/praxisforum-digitalisierung/05-vorstand.png)
 
 Als Fazit lässt sich sagen, die Vorbereitungen haben sich ausgezahlt. Die Infrastruktur blieb stabil und hat trotz der
 hohen Menge an Clients auf engem Raum gut funktioniert.

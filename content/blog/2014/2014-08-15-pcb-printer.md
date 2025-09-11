@@ -43,13 +43,13 @@ Unterlegscheiben für den nötigen Abstand. Auch ist es wichtig die „Parkstati
 für den Druckkopf auf der linken Seite anzuheben, damit dieser nicht
 ausstrocknet!
 
-![Drucker](/media/blog/2014/pcb-printer/0000.jpg)
+![Drucker](../../../media/blog/2014/pcb-printer/0000.jpg)
 
 Da das Platinenmaterial auf noch wesentlich unflexibler als Papier ist muss der
 Papiereinzug entsprechend so umgebaut werden, dass das Material horizontal
 durchgeführt werden kann und auch geführt wird.
 
-![Drucker von oben](/media/blog/2014/pcb-printer/0001.jpg)
+![Drucker von oben](../../../media/blog/2014/pcb-printer/0001.jpg)
 
 Die Hauptarbeit war das Testen unterschiedlicher Parameter wie der Erwärmung
 vor und nach dem Drucken auf das Platinenmaterial, Ätzmittel und der Tinte.
@@ -64,11 +64,11 @@ Abbildungen).
 
 So sieht die Platine nach dem Druck aus:
 
-![Platine nach dem Druck](/media/blog/2014/pcb-printer/0002.jpg)
+![Platine nach dem Druck](../../../media/blog/2014/pcb-printer/0002.jpg)
 
 Nach dem Ätzen (Beispiel für eine SDR-Platine von DD7LP):
 
-![Platine nach dem Druck 2](/media/blog/2014/pcb-printer/0003.jpg)
+![Platine nach dem Druck 2](../../../media/blog/2014/pcb-printer/0003.jpg)
 
 Vorteil bei Verwendung besagter Tinte ist auch, das als Ätzmittel auch
 Natriumpersulfat verwendet werden.

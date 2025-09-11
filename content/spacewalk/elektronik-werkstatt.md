@@ -11,4 +11,4 @@ In der E-Werkstatt gibt es außerdem einen Lötofen (der aus einem umgebauten
 Toastofen gebaut wurde), sowie eine im Bau befindliche Bestückungs-Maschine
 (Pick-and-Place-Maschine).
 
-![Die E-Werkstatt](/media/spacewalk/electronics.jpg)
+![Die E-Werkstatt](../../media/spacewalk/electronics.jpg)

@@ -7,7 +7,7 @@
     <ul class="dropdown-menu">
         {% for page in index_section.pages %}
             <li>
-                <a class="dropdown-item" href="{{ page.path }}">
+                <a class="dropdown-item" href="{{ page.permalink }}">
                     {{ page.title }}
                 </a>
             </li>
@@ -16,7 +16,7 @@
         {% for subsectionPath in index_section.subsections %}
             {% set subsection = get_section(path=subsectionPath, metadata_only=true) %}
             <li>
-                <a class="dropdown-item" href="{{ subsection.path }}">
+                <a class="dropdown-item" href="{{ subsection.permalink }}">
                     {{ subsection.title }}
                 </a>
             </li>

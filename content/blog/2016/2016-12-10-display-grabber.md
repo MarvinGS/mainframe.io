@@ -13,7 +13,7 @@ thumbnail = "/media/blog/2016/abus-cfa1000-display-grabber/thumbnail.png"
 repository = "https://github.com/ktt-ol/abus-cfa1000-display-grabber/"
 +++
 
-![Cover](/media/blog/2016/abus-cfa1000-display-grabber/cover.jpg)
+![Cover](../../../media/blog/2016/abus-cfa1000-display-grabber/cover.jpg)
 
 For our access control system, we needed a motor lock for our main door.
 After having a look how other hackspaces solved the problem, we decided
@@ -61,7 +61,7 @@ display is driven using 4 different voltage levels: 0V, 1V, 2V, 3V, 4V (voltage
 differs based on the voltage supplied to the CFA1000). Also from the schematics
 we got the information, that 4 pins are labeled SEG and 5 pins are labeled COM.
 
-![Signal](/media/blog/2016/abus-cfa1000-display-grabber/combined-layout-signal.svg)
+![Signal](../../../media/blog/2016/abus-cfa1000-display-grabber/combined-layout-signal.svg)
 
 Measuring 4 pins at a time due to our scope not providing more input channels,
 we had a look at all 9 pins and noticed a few things:
@@ -95,7 +95,7 @@ generate other symbols on the display, because the segments must be enabled in
 the first place of course. Doing that we could identify basically all pins and
 created the following pin information graphic (C=COM, S=SEG):
 
-![Pin Identification](/media/blog/2016/abus-cfa1000-display-grabber/pins.svg)
+![Pin Identification](../../../media/blog/2016/abus-cfa1000-display-grabber/pins.svg)
 
 With that we can decode the information from the display. We verified this by
 removing the display again, connecting our scope and trying to decode the
@@ -111,7 +111,7 @@ provides the information via I²C. Unfortunately, that turned out not to work
 that well. The voltage dropped, because the CFA1000's µC did not provide enough
 energy for this setup. The image below shows our first attempt.
 
-![PCB with diodes](/media/blog/2016/abus-cfa1000-display-grabber/pcb-diodes.png)
+![PCB with diodes](../../../media/blog/2016/abus-cfa1000-display-grabber/pcb-diodes.png)
 
 After finding a few more issues, we decided to start from scratch using a
 completly different design based on voltage comparators. We added a 4
@@ -136,7 +136,7 @@ that we can read the display state from our access control system. The expander
 also provides an interrupt pin to notify the host system, that one of the input
 pins changed.
 
-![PCB schematic](/media/blog/2016/abus-cfa1000-display-grabber/pcb-schematic.svg)
+![PCB schematic](../../../media/blog/2016/abus-cfa1000-display-grabber/pcb-schematic.svg)
 
 So far so good from the digital side. Unfortunately it again did not work as
 expected. So let's get out our scope again and check the lines: The voltage
@@ -146,7 +146,7 @@ The screenshot below shows one of the raw COM signals (yellow) together with
 the cleaned variant (cyan). Also visible is one of the raw SEG signals (purple)
 together with its cleaned variant (blue). So why is it not working?
 
-![Screenshot from DSO](/media/blog/2016/abus-cfa1000-display-grabber/scope1.png)
+![Screenshot from DSO](../../../media/blog/2016/abus-cfa1000-display-grabber/scope1.png)
 
 Looking further we noticed, that the COM signal is enabled slightly longer,
 than the SEG signal. Thus our latch will take over incorrect values. We
@@ -166,7 +166,7 @@ Below you can see screenshots of the resulting signals. The yellow one is a
 COM signal and the purple one is a SEG signal. The blue one shows the matching
 output of the latch. As you can see it keeps it value at high.
 
-![Screenshot from DSO](/media/blog/2016/abus-cfa1000-display-grabber/flanks.png)
+![Screenshot from DSO](../../../media/blog/2016/abus-cfa1000-display-grabber/flanks.png)
 
 With that fixed we ordered a nice PCB in china and soldered it and found it
 mostly working. Unfortunately we still had two pins wrong, so we had to patch
@@ -175,5 +175,5 @@ If we ever need another PCB, we add another port expander and add the
 additional signal lines and the buttons there instead of directly providing
 them to the host system.
 
-![The resulting PCB](/media/blog/2016/abus-cfa1000-display-grabber/board.png)
-![The resulting PCB](/media/blog/2016/abus-cfa1000-display-grabber/result.jpg)
+![The resulting PCB](../../../media/blog/2016/abus-cfa1000-display-grabber/board.png)
+![The resulting PCB](../../../media/blog/2016/abus-cfa1000-display-grabber/result.jpg)

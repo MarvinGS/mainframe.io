@@ -34,4 +34,4 @@ Nickel und einem unserer Mitglieder an einem kommenden Wochenende stattfinden so
 
 [http://werkmarkt.waldorfschule-bremen-osterholz.de/](http://werkmarkt.waldorfschule-bremen-osterholz.de/)
 
-![Ausstellung Werkmarkt Bremen](/media/blog/2012/WerkmarktBremen/img1.jpg)
+![Ausstellung Werkmarkt Bremen](../../../media/blog/2012/WerkmarktBremen/img1.jpg)

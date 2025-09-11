@@ -25,13 +25,13 @@ Spielevorstellungen an einer langen, dünnen Stange über dem Spieltisch
 "fliegen" lassen zu können. Das Logo hatte ich von Markus, dem Verleger, als
 PDF im Vektorformat bekommen. Im Original sah das so aus:
 
-![](/media/blog/2012/flying-games-logo/0000.jpg)
+![](../../../media/blog/2012/flying-games-logo/0000.jpg)
 
 Das musste ich jetzt in eine SVG-Datei umwandeln, die nur noch einen langen
 Pfad enthält. Zunächst verband ich also die Umrisse des Logos (die beiden
 Flügel mit der Spieleschachtel in der Mitte) und erhielt das hier:
 
-![](/media/blog/2012/flying-games-logo/0001.jpg)
+![](../../../media/blog/2012/flying-games-logo/0001.jpg)
 
 Die Buchstaben "F" und "G" machten mir etwas Kopfzerbrechen, ich beschloss
 schließlich, sie von unten her anzuschneiden und durch die gleiche Öffnung
@@ -39,7 +39,7 @@ wieder zurückzukehren zum Umriss. Damit würde das Logo dann zwei schmale Löch
 bekommen, aber die könnte ich hinterher vielleicht wieder kleben. Die Vorlage
 sah dann so aus:
 
-![](/media/blog/2012/flying-games-logo/0002.jpg)
+![](../../../media/blog/2012/flying-games-logo/0002.jpg)
 
 Damit ging es dann zum PC, der den Styroschneider steuert. Die SVG-Datei wurde
 dort mit Inkscape geöffnet, und das Plugin sollte sie in GCode umwandeln. Damit
@@ -52,7 +52,7 @@ es noch nicht ganz (das Modell war viel zu klein), aber das konnte in Inkscape l
 Dann hatten wir gültigen GCode und mussten nur noch den Styroschneider an die richtige Position fahren und ihm sagen, wo
 im Koordinatensystem des Objekts er anfangen sollte. Und los gings! Schließlich war das Logo fertig und sah so aus:
 
-![](/media/blog/2012/flying-games-logo/0003.jpg)
+![](../../../media/blog/2012/flying-games-logo/0003.jpg)
 
 Und mit dem Video vom Schnitt habe ich ein weiteres erstes Mal gewagt: mein erstes Youtube-Video.
 

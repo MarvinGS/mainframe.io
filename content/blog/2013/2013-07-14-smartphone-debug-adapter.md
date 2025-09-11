@@ -60,10 +60,10 @@ dieser einfach mit dem Debug-Adapter verbunden werden kann.
 -- Sebastian
 
 Einzelteile:
-![Einzelteile](/media/blog/2013/smartphone-debug-adapter/0001.jpg)
+![Einzelteile](../../../media/blog/2013/smartphone-debug-adapter/0001.jpg)
 
 Elektronik:
-![Elektronik](/media/blog/2013/smartphone-debug-adapter/0002.jpg)
+![Elektronik](../../../media/blog/2013/smartphone-debug-adapter/0002.jpg)
 
 Adapter:
-![Adapter](/media/blog/2013/smartphone-debug-adapter/0003.jpg)
+![Adapter](../../../media/blog/2013/smartphone-debug-adapter/0003.jpg)

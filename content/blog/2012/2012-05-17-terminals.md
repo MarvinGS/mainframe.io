@@ -31,7 +31,7 @@ Verschrottung gerettet wurden. Nun gibt es ein Projekt zu diesen alten Schätzen
 aus den 70er-Jahren. Erklärtes Ziel ist es, den Geräten wieder Leben
 einzuhauchen.
 
-![](/media/blog/2012/terminals/img1.jpg)
+![](../../../media/blog/2012/terminals/img1.jpg)
 
 Zunächst muss man vielleicht erklären was ein serielles Terminal ist: Bevor
 Personal Computer Einzug in Büros und Haushalte fanden, hatten viele
@@ -54,7 +54,7 @@ zu lassen. Aber wer will dafür schon die ganze Zeit seinen stromhungrigen
 Laptop zur Verfügung stellen. Wir brauchten also einen “Großrechner”. In
 unserem Fall übernimmt ein kleiner Arduino diese Rolle.
 
-![](/media/blog/2012/terminals/img2.jpg)
+![](../../../media/blog/2012/terminals/img2.jpg)
 
 Arduinos haben serielle Schnittstellen, mit denen die Terminals allerdings
 nicht direkt angesteuert werden konnten, da sie die falsche Spannung liefern

@@ -12,7 +12,7 @@ Serie = ["Hardware"]
 thumbnail = "/media/blog/2013/salatbaum/thumbnail.jpg"
 +++
 
-![Salatbaum](/media/blog/2013/salatbaum/salatbaum.jpg)
+![Salatbaum](../../../media/blog/2013/salatbaum/salatbaum.jpg)
 
 Der Salatbaum ist ein Projekt, dass wir als Workshop auf dem
 [Freifeld-Festival](http://ffrei.de) und am Tag der offenen Tür bei uns

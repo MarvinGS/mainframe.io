@@ -30,7 +30,7 @@ Erlernen neuer Dinge lieber auf die eigene Sprache zurückgreifen, hat sich unse
 des Comics ins Deutsche angenommen. Da das Original unter einer Creative-Commons-Lizenz steht, war dieses Unterfangen
 auch unproblematisch möglich, sogar erwünscht.
 
-![](/media/blog/2012/arduino-comic/img1.jpg)
+![](../../../media/blog/2012/arduino-comic/img1.jpg)
 
 Die deutsche Übersetzung des Comics kann sich nun jeder
 unter [http://arduinocomic.kreativitaet-trifft-technik.de/](http://arduinocomic.kreativitaet-trifft-technik.de/)

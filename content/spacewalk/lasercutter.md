@@ -10,7 +10,7 @@ Der Laser verdampft oder verbrennt das Material entlang einer vorgegebenen
 Linie. Gesteuert wird unser Lasercutter per Computer mithilfe eines Programms,
 das Vektorgrafiken (in diesem Fall DXF-Dateien) einliest.
 
-![Der Lasercutter](/media/spacewalk/machines/lasercutter-thumbnail.jpg)
+![Der Lasercutter](../../media/spacewalk/machines/lasercutter-thumbnail.jpg)
 
 Wir verwenden den Lasercutter sehr oft zum Schneiden von Pappel-Sperrholz, zum
 Beispiel zur Herstellung von passgenauen Holzboxen.
@@ -36,4 +36,4 @@ stattfinden. Hier können dann zum Beispiel Namensschilder für die Kinder und
 Jugendlichen gelasert werden. Einige Teilnehmer*innen bringen auch schon eigene
 Laser-Vorlagen mit.
 
-![Der Lasercutter in Aktion](/media/spacewalk/machines/lasercutter-0007.jpg)
+![Der Lasercutter in Aktion](../../media/spacewalk/machines/lasercutter-0007.jpg)

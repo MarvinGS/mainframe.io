@@ -11,7 +11,7 @@ Serie = ["Hardware"]
 thumbnail = "/media/blog/2018/ladekoffer/thumb_IMG_20181109_193018.jpg_2k.jpg"
 +++
 
-![Der Ladekoffer](/media/blog/2018/ladekoffer/IMG_20181109_193018.jpg_2k.jpg)
+![Der Ladekoffer](../../../media/blog/2018/ladekoffer/IMG_20181109_193018.jpg_2k.jpg)
 
 Als kleines Nachmittagsprojekt wurde ein Modellbauladegerät in einen alten "Alu-Koffer" eingebaut.
 Da einige Kabel recht kurz waren und dadurch das Laden erschwert wurde, wurden Durchführungen für die Kabel eingebaut.
@@ -38,10 +38,10 @@ Beide Modelle wurden mit einem selbstgebauten JoSeb (I3 Stil) Drucker gedruckt.
 * keine Stützstruktur
 * Standard Temperaturen und Geschwindigkeiten für PLA (silber) bzw. ABS (Orange)
 
-[Download der 3D-Modelle](ladekoffer/Ladekoffer_modelle.zip)
+[Download der 3D-Modelle](../../../media/blog/2018/ladekoffer/Ladekoffer_modelle.zip)
 
-![Foto 1](/media/blog/2018/ladekoffer/0001.jpg)
-![Foto 2](/media/blog/2018/ladekoffer/0002.jpg)
-![Foto 3](/media/blog/2018/ladekoffer/IMG_20181109_192807.jpg_2k.jpg)
-![Foto 4](/media/blog/2018/ladekoffer/IMG_20181109_192814.jpg_2k.jpg)
-![Foto 5](/media/blog/2018/ladekoffer/IMG_20181109_193018.jpg_2k.jpg)
+![Foto 1](../../../media/blog/2018/ladekoffer/0001.jpg)
+![Foto 2](../../../media/blog/2018/ladekoffer/0002.jpg)
+![Foto 3](../../../media/blog/2018/ladekoffer/IMG_20181109_192807.jpg_2k.jpg)
+![Foto 4](../../../media/blog/2018/ladekoffer/IMG_20181109_192814.jpg_2k.jpg)
+![Foto 5](../../../media/blog/2018/ladekoffer/IMG_20181109_193018.jpg_2k.jpg)

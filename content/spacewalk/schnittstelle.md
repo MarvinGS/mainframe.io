@@ -8,7 +8,7 @@ die Textilveredelung, also das Bedrucken und Besticken von Textilien, als auch
 die Herstellung von Textilien, zum Beispiel mit Nähmaschinen, Strickmaschinen
 oder klassisch per Hand.
 
-![Die Schnittstelle](/media/spacewalk/schnittstelle.jpg)
+![Die Schnittstelle](../../media/spacewalk/schnittstelle.jpg)
 
 ## Textilveredelung
 

@@ -25,7 +25,7 @@ breites Interesse. Gleiches gilt für die inzwischen diversen LED-Spielereien, d
 worden sind. Und natürlich auch unser größtes „Spielzeug“, unsere selbstgebaute CNC-Fräse fand nicht selten bewundernde
 Blicke.
 
-![Kinder an unseren Terminals](/media/blog/2012/sommer-im-quartier/img1.jpg)
+![Kinder an unseren Terminals](../../../media/blog/2012/sommer-im-quartier/img1.jpg)
 
 Trotz Regen fanden an den vier Tagen gut 500 Interessierte über eine steile Treppe den Weg in den Beta-Space. Viele
 dieser Besucher waren eher künstlerisch als technisch interessiert, waren aber dennoch schnell von unseren Exponaten und
@@ -33,7 +33,7 @@ von unserer Arbeit begeistert. Denn Styroporschneider, CNC-Fräse und 3D-Drucker
 live entstandenen „Ponies“, „Hello Kitty“-Figuren und die dazu passenden Prinzessinnenschlösser konnten schließlich auch
 künstlerisch überzeugen.
 
-![Kinder beim Klackerlaken bauen](/media/blog/2012/sommer-im-quartier/img2.jpg)
+![Kinder beim Klackerlaken bauen](../../../media/blog/2012/sommer-im-quartier/img2.jpg)
 
 Der größte Publikumsmagnet war aber sicher die Klackerlaken-Aktion am Samstag. Wir hatten gemeinsam mit der Kulturetage
 Kinder eingeladen, mit uns kleine Plagegeister aus Club-Mate-Deckeln, Knopfzellen und Vibrationsmotoren zu bauen und
@@ -42,7 +42,7 @@ Eltern konfrontiert werden würden, hätten wir uns nie träumen lassen. Sogar d
 Nach vier Stunden waren fast alle Vibrationsmotoren, die wir freundlicherweise von ENDRICH geschenkt bekommen haben, und
 alle Batterien verbaut, unser Betreuerteam völlig geschafft und viele sehr interessante Klackerlaken entstanden.
 
-![einige fertige Klackerlaken](/media/blog/2012/sommer-im-quartier/img3.jpg)
+![einige fertige Klackerlaken](../../../media/blog/2012/sommer-im-quartier/img3.jpg)
 
 Bei allem positiven Zuspruch müssen wir uns jetzt trotzdem damit arrangieren, dass der Beta-Space nicht mehr lange
 Bestand haben wird. Wir werden zeitnah eine neue Bleibe finden müssen. Denn der Abrisstermin für das quARTier rückt Tag

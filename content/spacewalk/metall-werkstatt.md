@@ -27,7 +27,7 @@ Die Maschine ist hauptsächlich für die Zerspanung von Metall und kann ggf. auc
 für Kunststoff verwendet werden. Da viel mit Öl und vor allem Kühlwasser
 hantiert wird, wird die Maschine nicht zum Fräsen von Holz benutzt.
 
-![CNC-Fräse](/media/spacewalk/machines/cnc-mill-cover.jpg)
+![CNC-Fräse](../../media/spacewalk/machines/cnc-mill-cover.jpg)
 
 | Maschineninformationen | |
 | ----- | ---- |
@@ -50,4 +50,4 @@ hantiert wird, wird die Maschine nicht zum Fräsen von Holz benutzt.
 
 ## Drehbank
 
-![Drehbank](/media/spacewalk/machines/drehbank.jpg)
+![Drehbank](../../media/spacewalk/machines/drehbank.jpg)
