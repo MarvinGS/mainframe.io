@@ -1,11 +1,11 @@
 +++
-title = "REM"
+title = "Raster-Elektronen-Mikroskop"
 weight = 190
 +++
 
 ![REM](../../media/spacewalk/machines/rem-preview.jpg)
 
-Seit September 2018 verfügen wir auch über ein Rasterelektronenmikroskop, ein
+Seit September 2018 verfügen wir auch über ein Rasterelektronenmikroskop (REM), ein
 **Tesla BS300**.
 
 Das Gerät wurde Ende der 70er gebaut und stammt ursprünglich aus Tschechien,
