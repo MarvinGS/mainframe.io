@@ -41,7 +41,7 @@ am besten direkt im Space.
 
 ## 📚 Wiki
 
-Du findest unser Wiki unter [https://wiki.kreativitaet-trifft-technik.de/](https://wiki.kreativitaet-trifft-technik.de/).
+Du findest unser Wiki unter [https://wiki.mainframe.io](https://wiki.mainframe.io).
 
 Es gibt auch hier einen öffentlichen Bereich, den alle einsehen dürfen.
 
