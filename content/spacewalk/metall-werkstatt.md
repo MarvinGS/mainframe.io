@@ -7,7 +7,7 @@ Wir haben zwei Werkstätten für Metall -- eine kleine kombinierte Holz- und
 Metall-Werkstatt und eine große dedizierte Werkstatt.
 
 Die kleine Werkstatt befindet sich oben im Hauptbereich des Mainframe und ist
-immer zugänglich, wenn der Space geöffenet ist. Hier finden sich verschiedene
+immer zugänglich, wenn der Space geöffnet ist. Hier finden sich verschiedene
 kleinere Werkzeuge und Maschinen, inklusive einer Sandstrahlkabine und einer
 Lackierkabine.
 

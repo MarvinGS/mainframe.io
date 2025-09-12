@@ -19,6 +19,6 @@ Vakuum-Steuerung repariert) und kalibriert.
 
 In Zukunft soll noch soll ein digitales Interface geschaffen werden.
 
-<!-- TODO link REM fotos
+<!-- TODO Link REM Fotos
 <a href="/album.dark.html#/a/0/REM">Album mit Bildern vom REM</a>
 -->

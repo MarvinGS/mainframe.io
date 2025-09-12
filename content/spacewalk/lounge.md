@@ -8,7 +8,7 @@ Im Mainframe gibt es mehrere verschiedene Aufenthaltsbereiche.
 ## Conference
 
 Hier finden Vorträge statt, aber auch die Programmierclubs, die
-Brettspielgruppen und viels mehr.
+Brettspielgruppen und vieles mehr.
 
 Der Raum ist mit einem Beamer und Whiteboards ausgestattet.
 
@@ -34,7 +34,7 @@ Personen. Hier sind auch eine Beamer-Leinwand sowie Lighthouses für VR-Brillen
 angebracht.
 
 In der kleinen Lounge vorne sind zwei Sofas. Hier befindet sich auch unsere
-"Sample-Ecke" mit diversen Ausstellungsstücken aus verschiednene Bereichen im
+"Sample-Ecke" mit diversen Ausstellungsstücken aus verschiedenen Bereichen im
 Mainframe.
 
 Die Lounge ganz hinten im Space ist ein Ruheraum, der sich als Rückzugsort
