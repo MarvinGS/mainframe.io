@@ -32,7 +32,7 @@ Die wichtigste Liste ist dabei
 Es ist eine öffentliche Liste: Wenn du mitlesen oder schreiben möchtest, kannst
 du dich unter dem Link oben registrieren. Ab dann bekommst du alles, was an die
 Liste geschickt wird, automatisch per Mail zugeschickt und du kannst selbst
-Mails an alle Abonnenten schicken, in dem du eine Mail an
+Mails an alle Abonnenten schicken, indem du eine Mail an
 [diskussion@lists.ktt-ol.de](mailto:diskussion@lists.ktt-ol.de) sendest.
 
 ## 💬 Messenger
