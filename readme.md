@@ -5,14 +5,18 @@
 - Fix mini calendar (sometimes doesn't show any entries)
 - Remove "Verein" once new ktt.de site is up
 - Create a more visible link to the site of ktt.de
-- English translations where applicable (or remove english altogether for now)
 
 ## Potential Improvements
 
+- Bring back introduction block on main page -- something like on https://jugendhackt.org/ perhaps?
+- English translations?
 - Write more about Do's & Don't in the space (at about/about.md)
 - Write more about self-organised groups and how we make decisions
 - Move space status to top on mobile
 - Add more than 5 calendar appointments in the short view
+- Make IFS previous/next consistent: right click should be previous because this
+  is what people usually click --> when right clicking the most current image
+  they should not end up at IFS 0 by mistake
 
 ## Development
 
