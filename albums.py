@@ -179,6 +179,7 @@ for thread in threads:
 index_file = open(join_path(tmp_ktt_ol_albums, "_index.md"), "w")
 index_file.write("+++\n")
 index_file.write("title = 'Fotoalben'\n")
+index_file.write("description = 'Hier findest du nach Themen sortierte Fotoalben, zum Beispiel zu bestimmten Events oder Dingen im Space.'\n")
 index_file.write("template = 'album/album-list.html'\n")
 index_file.write('sort_by = "date"\n')
 index_file.write("+++\n")
