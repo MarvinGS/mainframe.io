@@ -82,38 +82,3 @@ rooms = [
 
 google_cal_id = "markusframer@gmail.com"
 google_api_key = "AIzaSyB9pTX1ewZeRPc-rmq-Xp32wuuTW1P4U1U"
-
-[languages.en]
-title = "Kreativität trifft Technik e.V."
-description = "Website of Kreativität trifft Technik e.V."
-
-# Compilation settings
-build_search_index = false
-generate_feeds = true
-feed_filenames = ["rss.xml", "atom.xml"]
-
-taxonomies = [
-    { name = "Series", feed = true, paginate_by = 10 },
-    { name = "Type", feed = true, paginate_by = 10 }
-]
-
-[languages.en.translations]
-language = "Language"
-not_found_content = "This is not the content you are looking for!"
-not_found = "Content not found"
-locale_name = "en_US"
-publish_time = "published on %date% at %time% by %author%"
-all = "All"
-images = "Images"
-arrival = "Arrival"
-
-closed = "Closed"
-closing = "Closing soon"
-open = "Open"
-member = "Closed (Member Only)"
-keyholder = "Closed (Keyholder Only)"
-
-ifs_newest = "Newest Images From Space"
-ifs_more = "You can find more images here:"
-
-blog = "Blog"

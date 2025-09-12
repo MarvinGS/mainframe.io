@@ -5,7 +5,7 @@ import requests
 import os
 from datetime import datetime
 
-languages = ["de", "en"]
+languages = ["de"]
 
 ifs_url = "https://mainframe.io/media/ifs-images/meta.json"
 ifs_image_path = "content/images/ifs"

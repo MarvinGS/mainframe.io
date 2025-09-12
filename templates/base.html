@@ -6,8 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta property="og:site_name" content="{{ config.title }}"/>
     <meta property="og:locale" content='{{ trans(key="locale_name", lang=lang) }}'/>
-    <meta property="og:locale:alternate" content='{{ trans(key="locale_name", lang="de") }}'/>
-    <meta property="og:locale:alternate" content='{{ trans(key="locale_name", lang="en") }}'/>
 
     {% if current_path %}
         <meta property="og:url" content="{{ get_url(path=current_path) }}"/>

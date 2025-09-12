@@ -138,7 +138,6 @@ def create_album_folder(path_components: list[str], tmp_folder_albums: str, tmp_
     os.makedirs(album_folder)
 
     create_index_md(path_components, tmp_folder_albums, tmp_folder_covers, metadata, album_created_at, "")
-    create_index_md(path_components, tmp_folder_albums, tmp_folder_covers, metadata, album_created_at, "en")
 
     current_metadata = get_url_metadata(path_components)
     for image_metadata in current_metadata["images"]:
@@ -148,7 +147,6 @@ def create_album_folder(path_components: list[str], tmp_folder_albums: str, tmp_
             image_created_at = datetime.fromtimestamp(0)
 
         create_image_md(path_components, tmp_folder_albums, image_metadata, image_created_at, "")
-        create_image_md(path_components, tmp_folder_albums, image_metadata, image_created_at, "en")
 
     sub_threads = []
 
@@ -181,14 +179,6 @@ for thread in threads:
 index_file = open(join_path(tmp_ktt_ol_albums, "_index.md"), "w")
 index_file.write("+++\n")
 index_file.write("title = 'Fotoalben'\n")
-index_file.write("template = 'album/album-list.html'\n")
-index_file.write('sort_by = "date"\n')
-index_file.write("+++\n")
-index_file.close()
-
-index_file = open(join_path(tmp_ktt_ol_albums, "_index.en.md"), "w")
-index_file.write("+++\n")
-index_file.write("title = 'Albums'\n")
 index_file.write("template = 'album/album-list.html'\n")
 index_file.write('sort_by = "date"\n')
 index_file.write("+++\n")
