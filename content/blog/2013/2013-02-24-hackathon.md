@@ -25,7 +25,7 @@ language used, the operating system, an application, an API, the subject and
 the demographic group of the programmers. In other cases, there is no
 restriction on the type of software being created.
 
--- [Wikipedia: Hackathon](://en.wikipedia.org/wiki/Hackathon)
+-- [Wikipedia: Hackathon](https://en.wikipedia.org/wiki/Hackathon)
 
 # Was passiert beim Hackathon?
 

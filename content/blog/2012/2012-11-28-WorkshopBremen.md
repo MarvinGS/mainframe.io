@@ -19,12 +19,12 @@ Die Idee für den Workshop wurde auf dem letzten Treffen zur Metropolregion Gron
 den finanziellen Mitteln der [Wirtschaftsförderung Bremen](http://www.wfb-bremen.de/de/wfb-wirtschaftsfoerderung-bremen)
 realisiert.
 
-![Gruppenfoto](/media/blog/2012/WorkshopBremen/img1.jpg)
+![Gruppenfoto](../../../media/blog/2012/WorkshopBremen/img1.jpg)
 
 Es war eine sehr angenehme Atmosphäre in der Gruppe, die sich vor allem aus Studenten, Schülern der Fachoberschule
 Gestaltung und Leuten aus dem Umfeld der jeweiligen FabLab- und Hackerspace-Szene der 3 Städte zusammensetzte.
 
-![Blick auf die Arbeitstische](/media/blog/2012/WorkshopBremen/img2.jpg)
+![Blick auf die Arbeitstische](../../../media/blog/2012/WorkshopBremen/img2.jpg)
 
 Um es vorwegzunehmen, keiner der fünf 3D-Drucker konnte auf dem Workshop fertiggestellt werden. Obwohl alle Gruppen
 wirklich engagiert gearbeitet haben, ist es einfach nicht ohne weiteres möglich,
@@ -38,14 +38,14 @@ Die [FabScan](http://hci.rwth-aachen.de/fabscan) 3d-Scanner wurden mit viel Krea
 Ende des Jahres soll eine Windows-Variante der Software zur Verfügung gestellt werden, sodass die Weiterentwicklung des
 3D-Scanners damit wohl noch mal vorangetrieben werden kann.
 
-![Zusammenbau eines FabScans](/media/blog/2012/WorkshopBremen/img3.jpg)
+![Zusammenbau eines FabScans](../../../media/blog/2012/WorkshopBremen/img3.jpg)
 
 Am Ende des ersten Workshop-Tages gab es vor allem für die Gäste aus Groningen
 und Oldenburg eine kleine Stadtführung durch Bremen. Abgeschlossen wurde die
 Führung mit einem Grillabend im Hackspace Bremen. Obwohl ich selber nicht dabei
 sein konnte, habe ich gehört, dass es ein schöner Abend gewesen ist.
 
-![Abendessen](/media/blog/2012/WorkshopBremen/img4.jpg)
+![Abendessen](../../../media/blog/2012/WorkshopBremen/img4.jpg)
 
 Auch wenn die Vorbereitung unter ziemlichen Zeitdruck geschehen mussten (An dieser Stelle noch mal ein ausdrückliches
 Lob an die Firma Watterott, die noch in einer Wochenendschicht die Platinen für den FabScan fertiggestellt und mir

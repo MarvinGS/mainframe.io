@@ -7,7 +7,7 @@ Das allererste Treffen, welches zur Gründung eines Hackspaces führen sollte, f
 
 Im Juli 2011 wurde schließlich der gemeinnützige Verein Kreativität trifft Technik gegründet, welcher als Trägerverein für den Hackspace dienen soll. Da zunächst noch Räumlichkeiten fehlten, fanden die regelmäßigen Treffen weiterhin im Marvin's, als auch im Beppo statt.
 
-![Die Gründungsmitglieder](/media/img/gruendung.jpg)
+![Die Gründungsmitglieder](../../media/img/gruendung.jpg)
 
 Um die Zeit bis zu den ersten Räumlichkeiten zu überbrücken wurden von uns drei mehrtägige Veranstaltungen durchgeführt, die Alpha's genannt wurden. Diese stellten eine Art Vorabversion des Hackspaces dar.
 

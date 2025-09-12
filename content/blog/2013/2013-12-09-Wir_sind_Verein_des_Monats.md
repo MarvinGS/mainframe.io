@@ -11,7 +11,7 @@ Typ = ["Ankündigung"]
 thumbnail = "/media/blog/2013/Wir_sind_Verein_des_Monats/2013-11-23_16-19-16.jpg"
 +++
 
-![](/media/blog/2013/Wir_sind_Verein_des_Monats/2013-11-23_16-19-16.jpg)
+![](../../../media/blog/2013/Wir_sind_Verein_des_Monats/2013-11-23_16-19-16.jpg)
 
 Daher haben wir am 23. November 2013 auf den Weg in das Einkaufszentrum gemacht, um den Preis entgegenzunehmen und uns
 einen ganzen Tag lang den Besuchern zu präsentieren. Ein großer Messestand, Tische und Stühle wurden uns gestellt und
@@ -23,9 +23,9 @@ bester Lage direkt am Springbrunnen den Mainframe präsentiert und mit den klein
 Andere hörten interessiert zu, wie einzelne Mitglieder den Druck von dreidimensionalen Objekten oder die Idee hinter dem
 Freifunk Projekt erklärten.
 
-![](/media/blog/2013/Wir_sind_Verein_des_Monats/2013-11-23_15-48-09.jpg)
+![](../../../media/blog/2013/Wir_sind_Verein_des_Monats/2013-11-23_15-48-09.jpg)
 
-![](/media/blog/2013/Wir_sind_Verein_des_Monats/2013-11-23_16-21-25.jpg)
+![](../../../media/blog/2013/Wir_sind_Verein_des_Monats/2013-11-23_16-21-25.jpg)
 
 Dabei war unter anderem
 

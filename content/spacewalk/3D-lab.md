@@ -6,7 +6,7 @@ weight = 40
 Hier stehen unsere verschiedenen 3D-Drucker und 3D-Scanner.
 
 Seit wir ab 2012 zusammen mit Lehrerinnen und Lehrern die
-[JoSeb-3D-Drucker](/blog/2013/fab4teachers) aus Sperrholz selbst zusammengebaut
+[JoSeb-3D-Drucker](@/blog/2013/2013-06-24-fab4teachers.md) aus Sperrholz selbst zusammengebaut
 haben, hat sich am Markt viel getan.
 Die kommerziellen Drucker sind schneller, präziser und günstiger geworden.
 

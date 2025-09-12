@@ -15,10 +15,14 @@
 
 <head>
     <meta charset='utf-8' />
-    <script src='/js/fullcalendar-6.1.18/index.global.min.js'></script>
-    <script src="/js/fullcalendar-6.1.18/google-calendar/index.global.min.js"></script>
-    <script>
+    <script src='{{ get_url(path="/js/fullcalendar-6.1.18/index.global.min.js") }}'
+            integrity="sha384-{{ get_hash(path="/js/fullcalendar-6.1.18/index.global.min.js", sha_type=384, base64=true) | safe }}">
+    </script>
+    <script src='{{ get_url(path="/js/fullcalendar-6.1.18/google-calendar/index.global.min.js") }}'
+            integrity="sha384-{{ get_hash(path="/js/fullcalendar-6.1.18/google-calendar/index.global.min.js", sha_type=384, base64=true) | safe }}">
+    </script>
 
+    <script>
         var calendar_config = {
             googleCalendarApiKey: '{{ config.extra.google_api_key }}',
             locale: 'de',

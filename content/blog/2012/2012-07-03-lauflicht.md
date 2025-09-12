@@ -21,7 +21,7 @@ fehlt die zur Programmierung notwendige proprietäre Tastatur zu diesem über 30
 Jahre alten Schätzchen. Also hat er es uns in der Hoffnung vorbeigebracht, dass
 sich bei uns jemand finden würde, der Lust auf diese Herausforderung hat.
 
-![](/media/blog/2012/lauflicht/img1.jpg)
+![](../../../media/blog/2012/lauflicht/img1.jpg)
 
 Hardware die nicht funktioniert oder von der niemand weiß wie sie funktioniert
 und dann auch noch mit blinkenden LEDs.
@@ -40,7 +40,7 @@ Leider ist es natürlich nicht so, dass einem die Geräte sagen, was warum wann
 gerade getan wird. Also starrt man manchmal mehrere Stunden auf solche Kurven
 wie in dem Bild.
 
-![](/media/blog/2012/lauflicht/img2.jpg)
+![](../../../media/blog/2012/lauflicht/img2.jpg)
 
 Man überlegt, warum gerade an dieser Stelle jetzt gerade Strom an oder aus
 gestellt wird, verrennt sich von einer in die nächste Theorie, weiß irgendwann

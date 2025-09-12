@@ -18,7 +18,7 @@ Patrick (MarvinGS) und Thomas (tmp) es geschafft direkt vor dem Treffen, ohne
 Namen den Mietvertrag vom Vermieter in Bremen abzuholen und so zunächst die
 freudige Kunde auf dem Treffen zu überbringen:
 
-![](/media/blog/2015/treffen-ohne-namen/kttmietvertraglarge.gif)
+![](../../../media/blog/2015/treffen-ohne-namen/kttmietvertraglarge.gif)
 
 Vielen, vielen, vielen (!) Dank vom BGB-Vorstand an alle Beteiligten. Wer nicht dabei war, kann sich nicht vorstellen, wie viel Zeit von uns und anderen da rein geflossen ist.
 
@@ -38,7 +38,7 @@ Ein weiteres Ergebnis des Treffens sind verschiedene, früher bereits durchgefü
 
 # Alpha
 
-Um olt herum findet sich eine Gruppe, welche eine weitere [Alpha](/series-of-events/alpha.html) durchführen möchte. Wer sich beteiligen möchte, meldet sich am besten bei olt.
+Um olt herum findet sich eine Gruppe, welche eine weitere Alpha durchführen möchte. Wer sich beteiligen möchte, meldet sich am besten bei olt.
 
 [//]: # (TODO: Link to alpha series)
 

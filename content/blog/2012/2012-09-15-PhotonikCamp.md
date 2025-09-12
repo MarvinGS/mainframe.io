@@ -22,7 +22,7 @@ In diesem Punkte konnten wir als Teilnehmer leider auch nicht die sehr ambitioni
 Gastgebers [René Bohne](http://hci.rwth-aachen.de/bohne)(„Das muss alles aufgegessen werden sonst kommt ihr hier nicht
 weg!“) erfüllen.
 
-![Jan-Tarek (rechts) erklärt Francis Engelmann die Exponate](/media/blog/2012/PhotonikCamp/img1.jpg)
+![Jan-Tarek (rechts) erklärt Francis Engelmann die Exponate](../../../media/blog/2012/PhotonikCamp/img1.jpg)
 
 Abbildung 1: Jan-Tarek (rechts) erklärt Francis Engelmann die Exponate. Im Hintergrund sieht man Dr. Thomas Fahlenbusch
 im Gespräch mit Mitarbeitern der RWTH Aachen.
@@ -33,7 +33,7 @@ Heybrock vertreten und Dr. Thomas Fahlbusch, der Geschäftsführer der PhotonicN
 PhotonicCamp zugegen. Diese Präsenz von Entscheidungsträgern lässt vermuten, dass die Nachwuchsförderung und der
 Technologietransfer sehr ernst genommen werden.
 
-![Konferenzraum für Sessions](/media/blog/2012/PhotonikCamp/img2.jpg)
+![Konferenzraum für Sessions](../../../media/blog/2012/PhotonikCamp/img2.jpg)
 
 Abbildung 2: Zum Sync fanden sich die Teilnehmer nach jeder Session wieder zusammen, um sich gegenseitig über den
 Verlauf der Sessions zu informieren.

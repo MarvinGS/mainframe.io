@@ -18,7 +18,7 @@ zu einem Plenum. Dabei sprechen wir über wichtige Anliegen, planen Events und
 sammeln Meinungsbilder. Diese Treffen sind auch ein idealer Zeitpunkt für
 Neugierige um sich einen Eindruck von der Community zu verschaffen.
 
-Für den nächsten Termin wirf gerne einen Blick in unseren [Terminkalender](/calendar).
+Für den nächsten Termin wirf gerne einen Blick in unseren [Terminkalender](@/calendar.md).
 
 ## 📨 Mailinglisten
 
@@ -50,7 +50,7 @@ Angemeldete Mitglieder können sich im Wiki auch die Plenums-Protokolle durchles
 ## 📝 Pads und HedgeDoc
 
 Zusätzlich zum Wiki erstellen wir Dokumente gerne kollaborativ mithilfe von
-[hedgedoc](md.mainframe.io). Es gibt hier keine Übersichtsseite mit allen Links
+[hedgedoc](https://md.mainframe.io). Es gibt hier keine Übersichtsseite mit allen Links
 -- vielmehr werden die Links asynchron an alle Interessierten verteilt.
 
 Über die Pads werden zum Beispiel Grillabende, Aufräumaktionen oder

@@ -15,7 +15,7 @@
 
             {% if page.ancestors | length > 2 %}
                 {% set ancestor = get_section(path=page.ancestors | last) %}
-                <a class="btn btn-outline-primary btn-sm mb-1 d-flex" href="{{ ancestor.path }}">
+                <a class="btn btn-outline-primary btn-sm mb-1 d-flex" href="{{ ancestor.permalink }}">
                     <!-- Credit: https://icons.getbootstrap.com/icons/chevron-double-left/ -->
                     <svg class="align-self-center" xmlns="http://www.w3.org/2000/svg" width="16" height="16"
                          fill="currentColor" viewBox="0 0 16 16">

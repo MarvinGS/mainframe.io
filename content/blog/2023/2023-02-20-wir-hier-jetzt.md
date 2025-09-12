@@ -12,7 +12,7 @@ Typ = ["Ankündigung"]
 thumbnail = "/media/blog/2023/wir-hier-jetzt/thumbnail.jpg"
 +++
 
-![](/media/blog/2023/wir-hier-jetzt/img.png)
+![](../../../media/blog/2023/wir-hier-jetzt/img.png)
 
 Jetzt für den Mainframe bzw. KtT e.V. abstimmen!
 

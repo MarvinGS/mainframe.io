@@ -18,12 +18,12 @@ Rakel wurde dann die Farbe erst durch das Sieb und dann durch die Löcher im Pap
 Space hergestellte Siebdruckmaschine sorgte für die nötige Fixierung der Siebe. Trotz nahender Fußball-WM wurden vor
 allem Geschenke für Freunde oder zum eigenen Stil passende Motive gedruckt.
 
-![](/media/blog/2014/siebdruck/bild1.jpg)
+![](../../../media/blog/2014/siebdruck/bild1.jpg)
 
 Finanziert wurde der Workshop vom AstA der Carl von Ossietzky Universität Oldenburg, im Wintersemester 14/15 soll eine
 Wiederholung stattfinden.
 
-![](/media/blog/2014/siebdruck/bild2.jpg)
+![](../../../media/blog/2014/siebdruck/bild2.jpg)
 
 
 

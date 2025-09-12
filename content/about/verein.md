@@ -7,7 +7,7 @@ Unser Space wird von einem eingetragenen gemeinnützigen Verein, dem
 **Kreativität trifft Technik e.V.**, getragen und finanziert sich überwiegend
 aus Mitgliedsbeiträgen.
 
-![Vereins-Logo Kreativität trifft Technik e.V.](/media/img/logo-ktt.png)
+![Vereins-Logo Kreativität trifft Technik e.V.](../../media/img/logo-ktt.png)
 
 Viele Menschen finden die Idee des Mainframe sowie die vom Verein organisierten
 Veranstaltungen toll und unterstützen uns, indem sie Mitglied werden, spenden,
@@ -25,4 +25,4 @@ Trotzdem hat es einige Vorteile, Mitglied im Verein zu werden:
 Wenn du mehr über den Verein erfahren möchtest, schau gerne auf der eigenen
 Seite vorbei:
 
-[Kreativität trifft Technik e.V.](/verein/membership)
+[Kreativität trifft Technik e.V.](@/verein/membership.md)

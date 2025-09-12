@@ -12,7 +12,7 @@ Serie = ["Hardware"]
 thumbnail = "/media/blog/2013/siebdruck-dings/thumbnail.jpg"
 +++
 
-![Siebdruck-Dings](/media/blog/2013/siebdruck-dings/siebdruck-dings.jpg)
+![Siebdruck-Dings](../../../media/blog/2013/siebdruck-dings/siebdruck-dings.jpg)
 
 Dieses "Siebdruck-Dings" nennt man eigentlich "Siebdruck-Maschine", obwohl es
 eigentlich gar keine Maschine ist. Es handelt sich hierbei im Wesentlichen um

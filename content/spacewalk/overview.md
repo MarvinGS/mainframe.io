@@ -6,12 +6,12 @@ weight = 10
 Hier findest du einen Rundgang durch den ganzen Mainframe und die
 darin enthaltenen Räume beziehungsweise Werkstätten.
 
-![Logo](/media/spacewalk/logo.jpg)
+![Logo](../../media/spacewalk/logo.jpg)
 
 ## 3D-Rundgang und Karte
 
 Du kannst wahlweise den Mainframe mithilfe eines
-[virtuellen 3D-Rundgangs](/images/panorama) oder mit einer
+[virtuellen 3D-Rundgangs](../../images/panorama) oder mit einer
 [interaktiven Karte](https://map.kreativitaet-trifft-technik.de/) erkunden.
 
 Dort sieht man den großen Teil unserer Räume. Die Radstelle, sowie die Holz- und
@@ -22,61 +22,61 @@ nicht mit auf der Karte.
 
 ## Bereiche
 
-- 🚨 [**Lasercutter**](/spacewalk/lasercutter)
+- 🚨 [**Lasercutter**](@/spacewalk/lasercutter.md)
 
   Raum mit unserem Lasercutter zum präzisen Schneiden und Gravieren von
   Materialien wie Holz, Plexiglas oder Pappe auf einer Größe von 120*80cm.
 
-- 🔌 [**Elektronik-Werkstatt**](/spacewalk/elektronik-werkstatt)
+- 🔌 [**Elektronik-Werkstatt**](@/spacewalk/elektronik-werkstatt.md)
 
   Ausgestattet mit Lötstationen, Messgeräten und Bauteilen für das Entwickeln,
   Reparieren und Testen elektronischer Schaltungen.
 
-- 🚤 [**3D-Labor**](/spacewalk/3d-lab)
+- 🚤 [**3D-Labor**](@/spacewalk/3D-lab.md)
 
   Raum mit verschiedenen 3D-Druckern zur Umsetzung digitaler Modelle in
   physische Objekte.
 
-- 🧶 [**Schnittstelle (Textilien)**](/spacewalk/schnittstelle)
+- 🧶 [**Schnittstelle (Textilien)**](@/spacewalk/schnittstelle.md)
 
   Textilwerkstatt für das Herstellen und Veredeln von Textilien. Hier gibt es
   Schneideplotter, eine Station für Siebdruck, eine Stickmaschine sowie diverse
   Nähmaschinen, Strickmaschinen und andere Geräte für kreative Projekte mit
   Stoff, Garn oder Folie.
 
-- 🚲 [**Radstelle**](/spacewalk/radstelle)
+- 🚲 [**Radstelle**](@/spacewalk/radstelle.md)
 
   Fahrradwerkstatt mit Werkzeugen und Ersatzteilen zur Reparatur, Wartung oder
   zum Umbau von Fahrrädern.
 
-- 🪓 [**Holz-Werkstatt**](/spacewalk/holz-werkstatt)
+- 🪓 [**Holz-Werkstatt**](@/spacewalk/holz-werkstatt.md)
 
   Raum mit Werkzeugen und Maschinen zur Holzbearbeitung -- vom Sägen und
   Schleifen bis zur Herstellung individueller Möbel oder Modelle.
 
-- 🔧 [**Metall-Werkstatt**](/spacewalk/metall-werkstatt)
+- 🔧 [**Metall-Werkstatt**](@/spacewalk/metall-werkstatt.md)
 
   Hier steht unsere große CNC-Fräse.
 
-- 📷 [**Foto-Labor**](/spacewalk/foto-lab)
+- 📷 [**Foto-Labor**](@/spacewalk/foto-lab.md)
 
   Hier können in einem Dunkelraum Fotos oder Siebe für den Siebdruck auf
   Textilien hergestellt werden.
 
-- 🔬 [**REM (Raster-Elektronen-Mikroskop)**](/spacewalk/rem)
+- 🔬 [**REM (Raster-Elektronen-Mikroskop)**](@/spacewalk/rem.md)
 
   Wir haben bei uns im Space ein Raster-Elektronen-Mikroskop aus den
   70er-Jahren, das aktuell funktionsfähig ist und für Demo-Zwecke verwendet
   wird.
 
-- 🍳 [**Küche und Grillplatz**](/spacewalk/kueche)
+- 🍳 [**Küche und Grillplatz**](@/spacewalk/kueche.md)
 
   Es gibt bei uns eine Gemeinschaftsküche (Selbstversorger-Küche) zum Kochen,
   Essen und für geselliges Beisammensein sowie einen überdachten Grillplatz. In
   der Küche befindet sich auch unser Shop-System, in dem man Getränke und Snacks
   erwerben kann.
 
-- 🛋 [**Conference, Lounges und Freifläche**](/spacewalk/lounge)
+- 🛋 [**Conference, Lounges und Freifläche**](@/spacewalk/lounge.md)
 
   Flexible Räume zum Arbeiten, für Präsentationen, Workshops oder einfach zum
   Entspannen und Austauschen. Es gibt auch einen separaten Ruheraum.

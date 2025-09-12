@@ -13,6 +13,6 @@ thumbnail = "/media/blog/2011/inventarsystem/inventarsystem.jpg"
 repository = "https://github.com/ktt-ol/ktt-inventory-system"
 +++
 
-![](/media/blog/2011/inventarsystem/inventarsystem.jpg)
+![](../../../media/blog/2011/inventarsystem/inventarsystem.jpg)
 
 TODO :)

@@ -22,7 +22,7 @@ Schuleinsatz entwickelten 3D-Drucker namens "JoSeb" mit engagierten Lehrerinnen 
 Obwohl ein entsprechender Bausatz allein an die 1.000 Euro kostet, betrug die Selbstbeteiligung für die
 Schulen/Lehrkräfte dank der Förderung nur 500 Euro für die gesamte Fortbildung incl. Drucker.
 
-![](/media/blog/2014/fab4teachers/DSC_9000.JPG)
+![](../../../media/blog/2014/fab4teachers/DSC_9000.JPG)
 
 Unsere neuen Räumlichkeiten in der alten Post am Bahnhof boten ausreichend Platz und viele Mitglieder haben in der
 Vorbereitung und Durchführung mit angepackt und die Fortbildung zu einem vollen Erfolg gemacht. Bereits am ersten Tag
@@ -40,7 +40,7 @@ Oldenburg (Didaktik der Informatik) wissenschaftlich begleitet. Über Fragebogen
 Auswertungen und Materialien, um viele weitere Lehrkräfte beim Lehren an, mit und durch 3D-Drucker (auch über die
 Grenzen des Informatikunterrichts hinaus) zu unterstützen.
 
-![](/media/blog/2014/fab4teachers/DSC_9030.JPG)
+![](../../../media/blog/2014/fab4teachers/DSC_9030.JPG)
 
 Mehr Fotos findet ihr <a href="//www.kreativitaet-trifft-technik.de/album.html#/a/0/2014-09_Fab4Teachers">hier in
 unserem Album</a>.

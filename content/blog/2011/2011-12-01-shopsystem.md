@@ -13,7 +13,7 @@ thumbnail = "/media/blog/2011/shopsystem/shopsystem.jpg"
 repository = "https://github.com/ktt-ol/serial-barcode-scanner/"
 +++
 
-![](/media/blog/2011/shopsystem/shopsystem.jpg)
+![](../../../media/blog/2011/shopsystem/shopsystem.jpg)
 
 Mit steigender Mitgliederzahl und mehr als 5 verschiedenen Produkten im "Kiosk"des Hackspaces wurde das führen und
 auswerten von Strichlisten immer aufwändiger. Aus diesem Grund wurde von uns Software entwickelt, welche die Daten von

@@ -22,7 +22,7 @@ und im Unterricht einsetzen sollen. Im zweiten Teil geht es um die Technik des 3
 3D-Objekten am Computer, den Einsatz dieser Techniken im Unterricht und natürlich um Erfahrungsberichte zu dem Einsatz
 der 3D-Drucker in den Schulen.
 
-![](/media/blog/2013/fab4teachers/thumbnail.jpg)
+![](../../../media/blog/2013/fab4teachers/thumbnail.jpg)
 
 Wir haben uns für eine Weiterentwicklung des RepRap Mendel Prusa i3 aus Holz entschieden, um den Selbstkostenanteil für
 die Schulen bzw. Lehrer gering zu halten und den Aufbau zu erleichtern. Unsere Variante wird den Namen "JoSeb" tragen, da

@@ -31,9 +31,9 @@ Auch für dich ist bestimmt etwas dabei! Der Mainframe ist täglich ab späteste
 19:00 Uhr (häufig bereits früher) geöffnet und Interessierte, egal mit welchem
 Hintergrund, sind jederzeit willkommen.
 Wenn du vorbei kommen willst, schau einfach mal in die
-[Öffnungszeiten](/opening-times) rein -- eine Anmeldung brauchst du nicht.
+[Öffnungszeiten](@/opening_times.md) rein -- eine Anmeldung brauchst du nicht.
 
-![Rainbow keyboard](/media/img/keyboard.jpg)
+![Rainbow keyboard](../../media/img/keyboard.jpg)
 
 ## Welche Ausstattung hat der Mainframe?
 
@@ -42,7 +42,7 @@ aufgestellt. Von einer großen Textilwerkstatt bis zum Rasterelektronenmikroskop
 ist alles mit dabei was das kreative Herz höherschlagen lässt.
 
 Schau für Details zu den einzelnen Bereich am besten auf der
-[Bereichs-Seite](/spacewalk) vorbei.
+[Bereichs-Seite](@/spacewalk/overview.md) vorbei.
 
 ## Wer kann mitmachen?
 
@@ -55,7 +55,7 @@ Komm einfach vorbei!
 ## Kostet das was?
 
 Nein. Der Mainframe finanziert sich mithilfe seines gemeinnützigen
-Trägervereins, dem [**Kreativität trifft Technik e.V.**](/about/verein)
+Trägervereins, dem [**Kreativität trifft Technik e.V.**](@/about/verein.md)
 
 Dadurch können wir es möglich machen, den Space auch für Nicht-Mitglieder zu
 öffnen. Natürlich freuen wir uns trotzdem über Spenden, die uns dabei helfen,
@@ -74,7 +74,7 @@ bietet eine tolle Übersicht über einige, aber nicht alle Spaces, die es so gib
 
 <!-- TODO: Add DO's & DON'Ts -->
 
-* [Unsere Öffnungszeiten](/opening-times)
+* [Unsere Öffnungszeiten](@/opening_times.md)
 * Den sorgsamen Umgang mit Werkzeugen und Geräten
 * Trau dich, Fragen zu stellen
 * Einfach Spaß haben :)

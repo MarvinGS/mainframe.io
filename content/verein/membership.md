@@ -9,10 +9,10 @@ Der Verein kann auf Wunsch für die gesamten Beiträge eines Jahres eine Sammel-
 
 Jedes Mitglied kann seine Mitgliedsnummer frei wählen, so lange sie zum Beitritt noch frei ist. Eine Liste der bereits vergebenen Nummern befindet sich im [Wiki](https://wiki.mainframe.io/public/Verein/Mitgliedschaft).
 
-Beitrittsformular: [PDF](/media/membership_form.pdf)
+Beitrittsformular: [PDF](https://www.mainframe.io/data/club/membership_form.pdf)
 
 # Satzung und Beitragsordnung
 
 Hier finden sie als PDF-Download die Satzung und Beitragsordnung des gemeinnützigen eingetragen Vereins Kreativität trifft Technik. Die Satzung und die Beitragsordnung ist außerdem als LaTeX Dokument in einem [Git-Repository](https://github.com/ktt-ol/articles-of-association) verfügbar, um Änderungen tracken und vorschlagen zu können.
 
-[Download der Satzung](/media/articles-of-association.pdf) | [Download der Beitragsordnung](/media/membership-fee-regulations.pdf) | [Download der Hausordnung](/media/house-rules.pdf)
+[Download der Satzung](https://www.mainframe.io/data/club/articles-of-association.pdf) | [Download der Beitragsordnung](https://www.mainframe.io/data/club/membership-fee-regulations.pdf) | [Download der Hausordnung](https://www.mainframe.io/data/club/house-rules.pdf)
