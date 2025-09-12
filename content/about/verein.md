@@ -13,7 +13,7 @@ Viele Menschen finden die Idee des Mainframe sowie die vom Verein organisierten
 Veranstaltungen toll und unterstützen uns, indem sie Mitglied werden, spenden,
 sich bei Aktionen engagieren oder einfach so vorbei kommen.
 
-Anders als bei einigen anderen Hackerspaces musst du bei uns nicht Mitglied
+Anders als bei einigen anderen Hackspaces musst du bei uns nicht Mitglied
 im Verein werden, um den Space nutzen zu können. Uns hilft es viel mehr, wenn du
 dich im Space einbringst und dort etwas baust oder mit anpackst.
 

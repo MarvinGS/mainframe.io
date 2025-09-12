@@ -13,7 +13,7 @@ mitmachen, unabhängig von Erfahrung und Hintergrund.
 
 ## 🗣️ Das Plenum
 
-Wir treffen uns in regelmäßigen Abständen (etwa alle andertalb Wochen) im Space
+Wir treffen uns in regelmäßigen Abständen (etwa alle anderthalb Wochen) im Space
 zu einem Plenum. Dabei sprechen wir über wichtige Anliegen, planen Events und
 sammeln Meinungsbilder. Diese Treffen sind auch ein idealer Zeitpunkt für
 Neugierige um sich einen Eindruck von der Community zu verschaffen.
@@ -41,11 +41,11 @@ am besten direkt im Space.
 
 ## 📚 Wiki
 
-Du findest unser Wiki unter [https://wiki.kreativitaet-trifft-technik.de/](https://wiki.kreativitaet-trifft-technik.de/).
+Du findest unser Wiki unter [https://wiki.mainframe.io](https://wiki.mainframe.io).
 
 Es gibt auch hier einen öffentlichen Bereich, den alle einsehen dürfen.
 
-Angemeldete Mitglider können sich im Wiki auch die Plenums-Protkolle durchlesen.
+Angemeldete Mitglieder können sich im Wiki auch die Plenums-Protokolle durchlesen.
 
 ## 📝 Pads und HedgeDoc
 

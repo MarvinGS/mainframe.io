@@ -11,7 +11,7 @@ sowie allgemeines Werkzeug und auch Werkzeuge zum Bearbeiten von Metall. Dieser
 Raum wird immer zusammen mit dem Space selbst geöffnet.
 
 In der großen Holzwerkstatt finden sich eine Tischkreissäge, ein Materiallager, große Arbeitstische und weitere.
-Ob die große Holzwerkstatt geföffnet ist, kannst du auf der
+Ob die große Holzwerkstatt geöffnet ist, kannst du auf der
 [Status-Seite unter Woodworking Status](https://status.mainframe.io/) sehen.
 
 ![Kleine Holzwerkstatt](/media/spacewalk/workshop.jpg)

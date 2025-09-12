@@ -32,7 +32,7 @@ Gravuren durchaus möglich.
 {{ resize_image(path="/media/spacewalk/machines/lasercutter-0006.jpg", height=500, width=300, op="fit") }}
 
 Der Lasercutter wird auch oft Betrieb genommen, wenn Programmierclubs
-statfinden. Hier können dann zum Beispiel Namensschilder für die Kinder und
+stattfinden. Hier können dann zum Beispiel Namensschilder für die Kinder und
 Jugendlichen gelasert werden. Einige Teilnehmer*innen bringen auch schon eigene
 Laser-Vorlagen mit.
 

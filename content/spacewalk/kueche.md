@@ -16,7 +16,7 @@ Manchmal wird hier zusammen gekocht, manchmal wird auch einfach Essen bestellt.
 
 ## Grillplatz
 
-Zusätzlich zur Küche haben wir die Möglichkeitn, in einem überdachten Bereich zu
+Zusätzlich zur Küche haben wir die Möglichkeiten, in einem überdachten Bereich zu
 grillen. Diesen Bereich bauen wir aktuell noch auf und verschönern ihn weiter. Fotos folgen!
 
 ## Shop

@@ -26,7 +26,7 @@ Sonderräume wie zum Beispiel die Radstelle oder die Holzwerkstatt gerade aktiv 
 Wenn der Status auf **AUF** oder **AUF+** steht, kannst du jederzeit gerne
 vorbeikommen – ganz spontan!
 
-Die lebendigsten Tage im Space sind in der Regel Dienstag und Samstag. Falls es
+Die lebendigsten Tage im Space sind in der Regel Dienstag und Samstag. Falls du
 es etwas ruhiger magst, sind die anderen Tage oft etwas entspannter.
 
 Einen guten Anhaltspunkt bietet außerdem unser [Terminkalender](@/calendar.md): Wenn dort eine

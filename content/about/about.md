@@ -61,7 +61,7 @@ Dadurch können wir es möglich machen, den Space auch für Nicht-Mitglieder zu
 öffnen. Natürlich freuen wir uns trotzdem über Spenden, die uns dabei helfen,
 den Space weiter zu betreiben.
 
-## Gibt es sowas auch woanders?
+## Gibt es so etwas auch woanders?
 
 Auf jeden Fall! Egal ob innerhalb Deutschlands oder weltweit, überall haben sich
 Leute zusammengetan um Hackspaces oder Makerspaces zu gründen und die meisten
@@ -84,4 +84,4 @@ Mitglieder, die den Space für die Allgemeinheit aufschließen dürfen. Sie sind
 Vertrauenspersonen, die dadurch besondere Rechte, aber auch besondere Pflichten
 haben.  Bei Fragen oder Problemen kannst du dich immer auch gerne an diese
 Person wenden -- oder auch alle anderen im Space ansprechen. Wer gerade
-keyholder ist, erfährst du auf der [Status-Seite](https://status.mainframe.io).
+Keyholder ist, erfährst du auf der [Status-Seite](https://status.mainframe.io).
