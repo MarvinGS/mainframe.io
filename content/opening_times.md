@@ -11,7 +11,8 @@ Da unser Space komplett ehrenamtlich betrieben wird, gibt es keine festen
 und den Space aufschließt.
 
 An den meisten Tagen ist ab spätestens **19:00 Uhr bis Mitternacht** geöffnet
-– oft schon deutlich früher und meistens deutlich länger.
+– oft schon deutlich früher und meistens deutlich länger. Im Allgemeinen gilt:
+sobald der Space geöffnet ist, bleibt er auch für den restlichen Tag offen.
 
 Du warst noch nie in einem Hackspace? Kein Problem! Bei uns sind alle
 willkommen, ganz egal, ob du schon bastelst, programmierst oder einfach nur
