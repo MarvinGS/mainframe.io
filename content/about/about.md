@@ -17,11 +17,11 @@ neugierig bist, wie eine Strickmaschine funktioniert -- hier bist du richtig.
 Der Mainframe ist **täglich ab spätestens 19:00 Uhr geöffnet** (häufig bereits früher)
 und Interessierte, egal mit welchem Hintergrund, sind jederzeit
 willkommen.  Wenn du vorbei kommen willst, schau einfach mal in die
-[Öffnungszeiten](@/opening_times.md) rein -- eine Anmeldung brauchst du nicht.
+[Öffnungszeiten](@/about/opening_times.md) rein -- eine Anmeldung brauchst du nicht.
 
 ![Rainbow keyboard](../../media/img/keyboard.png)
 
-## Was ist ein Hackspace/Makerspace/FabLab ?
+## Was ist ein Hackspace, Makerspace, FabLab?
 
 Ein Hackspace ist ein offener Raum mit unterschiedlichsten Werkzeugen,
 Maschinen und Materialien, in dem du eigene Ideen in die Realität umsetzen
@@ -85,7 +85,7 @@ bietet eine tolle Übersicht über einige, aber nicht alle Spaces, die es so gib
 
 <!-- TODO: Add DO's & DON'Ts -->
 
-* [Unsere Öffnungszeiten](@/opening_times.md)
+* [Unsere Öffnungszeiten](@/about/opening_times.md)
 * Den sorgsamen Umgang mit Werkzeugen und Geräten
 * Trau dich, Fragen zu stellen
 * Einfach Spaß haben :)

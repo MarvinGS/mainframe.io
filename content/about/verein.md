@@ -1,6 +1,6 @@
 +++
 title = "Der Verein"
-weight = 30
+weight = 50
 +++
 
 Unser Space wird von einem eingetragenen gemeinnützigen Verein, dem
