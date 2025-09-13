@@ -23,15 +23,17 @@ Für den nächsten Termin wirf gerne einen Blick in unseren [Terminkalender](@/c
 ## 📨 Mailinglisten
 
 Wenn wir nicht direkt miteinander reden, findet die meiste Kommunikation über
-Mailinglisten statt. Hier werden Fragen gestellt, es wird diskutiert und es
+Mailinglisten statt. Hier werden Fragen gestellt, es wird geschnackt und es
 werden Veranstaltungen angekündigt.
-Die wichtigste Liste ist dabei [Diskussion](https://mailman.ktt-ol.de/postorius/lists/diskussion.lists.ktt-ol.de/).
-Sie ist öffentlich, das heißt hier darf sich jeder registrieren und dann
-mitlesen und schreiben.
 
-Es gibt noch viele weitere Mailinglisten zu speziellen Themen, wie zum Beispiel
-die Organisation der Programmierclubs, oder des 3D-Labors. Eine Übersicht dazu findest
-du [hier](https://mailman.ktt-ol.de/postorius/lists/).
+Die wichtigste Liste ist dabei
+[Diskussion](https://mailman.ktt-ol.de/postorius/lists/diskussion.lists.ktt-ol.de/).
+
+Es ist eine öffentliche Liste: Wenn du mitlesen oder schreiben möchtest, kannst
+du dich unter dem Link oben registrieren. Ab dann bekommst du alles, was an die
+Liste geschickt wird, automatisch per Mail zugeschickt und du kannst selbst
+Mails an alle Abonnenten schicken, indem du eine Mail an
+[diskussion@lists.ktt-ol.de](mailto:diskussion@lists.ktt-ol.de) sendest.
 
 ## 💬 Messenger
 

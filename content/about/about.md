@@ -5,60 +5,71 @@ weight = 10
 
 ## Willkommen im Mainframe
 
-Der Mainframe ist ein [Hackspace](https://de.wikipedia.org/wiki/Hackerspace) in
-Oldenburg. Die Übergänge von einem Hackspace zu einem
-[Fablab](https://de.wikipedia.org/wiki/Fablab) beziehungsweise einem Makerspace
-oder einer offenen Selbsthilfe-Werkstatt sind fließend -- alle diese
-Begriffe passen zu uns.
+Der Mainframe ist ein **Hackspace** in Oldenburg.
 
-Der Mainframe stellt einen Treffpunkt für unterschiedlichste Personen bereit,
-welche sich über Technik und damit verbundene Themen austauschen und gemeinsam
-„hacken“. Hier kann man zusammen kreativ Tüfteln, Ausprobieren, Bauen und
-Lernen.
+Hier kann man kreativ sein, tüfteln, basteln, experimentieren und
+gemeinsam lernen.
 
-Auf [ca. 1200 Quadratmetern](https://map.mainframe.io) wird die nötige
-Infrastruktur zur Verfügung gestellt: 3D-Drucker, eine Elektronikwerkstatt,
-Nähmaschinen und Plotter, eine Holz-, Metall- sowie Fahrradwerkstatt, ein Fotolabor...
-sogar einen Lasercutter haben wir vor Ort. Außerdem gibt es alles, was man sonst
-so braucht: eine Lounge zum Entspannen, eine Küche, einen Konferenzraum zum
-Arbeiten und für Vorträge.
+Egal ob du ein Ersatzteil 3D-drucken willst, hübsche Namensschilder mit einem
+Lasercutter ausschneiden möchtest, eine Platine löten willst, oder
+neugierig bist, wie eine Strickmaschine funktioniert -- hier bist du richtig.
 
-Dabei ist der Mainframe mehr als nur eine Werkstatt: wir haben hier einen Raum
-für viele andere Formate, wie zum Beispiel Programmierclubs, Spieleabende,
-Finanzvorträge, oder sogar Theatergruppen.
-
-Auch für dich ist bestimmt etwas dabei! Der Mainframe ist täglich ab spätestens
-19:00 Uhr (häufig bereits früher) geöffnet und Interessierte, egal mit welchem
-Hintergrund, sind jederzeit willkommen.
-Wenn du vorbei kommen willst, schau einfach mal in die
+Der Mainframe ist **täglich ab spätestens 19:00 Uhr geöffnet** (häufig bereits früher)
+und Interessierte, egal mit welchem Hintergrund, sind jederzeit
+willkommen.  Wenn du vorbei kommen willst, schau einfach mal in die
 [Öffnungszeiten](@/opening_times.md) rein -- eine Anmeldung brauchst du nicht.
 
-![Rainbow keyboard](../../media/img/keyboard.jpg)
+![Rainbow keyboard](../../media/img/keyboard.png)
+
+## Was ist ein Hackspace/Makerspace/FabLab ?
+
+Ein Hackspace ist ein offener Raum mit unterschiedlichsten Werkzeugen,
+Maschinen und Materialien, in dem du eigene Ideen in die Realität umsetzen
+kannst.
+
+Die Übergänge von einem Hackspace zu einem **Fablab** beziehungsweise einem
+**Makerspace** oder einer offenen **Selbsthilfe-Werkstatt** sind fließend --
+alle diese Begriffe passen zu uns. Oft sagen wir einfach nur "**Space**".
+
+Dabei ist der Mainframe mehr als nur eine Werkstatt: wir sind eine Community, in
+denen sich alle gegenseitig helfen und neben den tollen Maschinen haben wir hier
+auch Raum für für viele andere Formate, wie zum Beispiel Programmierclubs,
+Spieleabende, Finanzvorträge, oder sogar Theatergruppen.
 
 ## Welche Ausstattung hat der Mainframe?
 
-Durch unsere großen Räumlichkeiten sind wir im Mainframe sehr vielseitig
-aufgestellt. Von einer großen Textilwerkstatt bis zum Rasterelektronenmikroskop
-ist alles mit dabei was das kreative Herz höherschlagen lässt.
+Durch unsere 1200 Quadratmeter großen Räumlichkeiten sind wir im Mainframe sehr
+vielseitig aufgestellt. Von einer großen **Textilwerkstatt** über
+**3D-Drucker**, **Lasercutter**, eine **Elektronik-, Holz-, Metall-, und Fahrrad-Werkstatt**,
+bis zum Foto-Labor und Raster-Elektronen-Mikroskop ist alles
+mit dabei was das kreative Herz höherschlagen lässt.
 
-Schau für Details zu den einzelnen Bereich am besten auf der
+Und weil es bei uns nicht nur Werkzeuge, sondern auch viele nette Menschen gibt,
+haben wir außerdem **Sofaecken**, **Arbeitsplätze**, einen **Konferenzraum** und
+eine **Küche**.
+
+Schau für Details zu den einzelnen Bereichen am besten auf der
 [Bereichs-Seite](@/spacewalk/overview.md) vorbei.
 
 ## Wer kann mitmachen?
 
 Alle! Egal ob du noch zur Schule gehst oder deine Rente genießt, ob du etwas
 Neues lernen möchtest, ein konkretes Projekt hast oder einfach an einem
-Austausch mit anderen Bastler*innen interessiert bist.
+Austausch mit anderen Bastler*innen interessiert bist. Bei uns kommen Menschen
+mit verschiedensten Hintergründen, zum Beispiel Technik, Kunst, Design und
+Handwerk, zusammen.
 
 Komm einfach vorbei!
 
 ## Kostet das was?
 
-Nein. Der Mainframe finanziert sich mithilfe seines gemeinnützigen
-Trägervereins, dem [**Kreativität trifft Technik e.V.**](@/about/verein.md)
+Nein.
 
-Dadurch können wir es möglich machen, den Space auch für Nicht-Mitglieder zu
-öffnen. Natürlich freuen wir uns trotzdem über Spenden, die uns dabei helfen,
+Der Mainframe finanziert sich mithilfe seines gemeinnützigen
+Trägervereins, dem [**Kreativität trifft Technik e.V.**](@/about/verein.md) --
+allerdings musst du hier **nicht** Mitglied werden, um den Space zu nutzen.
+
+Natürlich freuen wir uns trotzdem über Spenden, die uns dabei helfen,
 den Space weiter zu betreiben.
 
 ## Gibt es so etwas auch woanders?
@@ -85,3 +96,5 @@ Vertrauenspersonen, die dadurch besondere Rechte, aber auch besondere Pflichten
 haben.  Bei Fragen oder Problemen kannst du dich immer auch gerne an diese
 Person wenden -- oder auch alle anderen im Space ansprechen. Wer gerade
 Keyholder ist, erfährst du auf der [Status-Seite](https://status.mainframe.io).
+
+![Die Freifläche im Mainframe](../../media/img/freiflaeche.jpg)
