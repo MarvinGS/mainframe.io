@@ -2,7 +2,7 @@
     <div class="d-flex flex-column">
         <h3>
             <a class="ms-2" href="//status.mainframe.io">
-                Status
+                Space-Status
             </a>
         </h3>
 
@@ -10,25 +10,22 @@
             <a role="button" id="status-template"
                 class="d-flex p-0 flex-column text-decoration-none btn btn-white rounded-0 text-dark d-none border-bottom border-black"
                 href="//status.mainframe.io">
-                <div class="text-start ps-1 fw-bold lh-sm" id="status-name-template">
-                    Template:
-                </div>
                 <div class="text-end pe-1 lh-sm" id="status-text-unknown-template">
                     ???
                 </div>
-                <div class="text-end pe-1 lh-sm d-none" id="status-text-closed-template">
+                <div class="pe-1 d-none" id="status-text-closed-template">
                     {{ trans(key="closed", lang=lang) }}
                 </div>
-                <div class="text-end pe-1 lh-sm d-none" id="status-text-closing-template">
+                <div class="pe-1 d-none" id="status-text-closing-template">
                     {{ trans(key="closing", lang=lang) }}
                 </div>
-                <div class="text-end pe-1 lh-sm d-none" id="status-text-open-template">
+                <div class="pe-1 d-none" id="status-text-open-template">
                     {{ trans(key="open", lang=lang) }}
                 </div>
-                <div class="text-end pe-1 lh-sm d-none" id="status-text-member-template">
+                <div class="pe-1 d-none" id="status-text-member-template">
                     {{ trans(key="member", lang=lang) }}
                 </div>
-                <div class="text-end pe-1 lh-sm d-none" id="status-text-keyholder-template">
+                <div class="pe-1 d-none" id="status-text-keyholder-template">
                     {{ trans(key="keyholder", lang=lang) }}
                 </div>
             </a>

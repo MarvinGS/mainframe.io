@@ -73,11 +73,7 @@ bs_color_map = [
 ]
 
 rooms = [
-    { name = "spaceOpen", title = { de = "Hackspace", en = "Hackspace" } },
-    { name = "machining", title = { de = "Zerspanung", en = "Machining" } },
-    { name = "woodworking", title = { de = "Holzwerkstatt", en = "Woodworking" } },
-    { name = "lab3dOpen", title = { de = "3D Lab", en = "3D Lab" } },
-    { name = "radstelleOpen", title = { de = "Radstelle", en = "Cycling" } },
+    { name = "spaceOpen", title = { de = "Mainframe", en = "Mainframe" } },
 ]
 
 google_cal_id = "markusframer@gmail.com"
