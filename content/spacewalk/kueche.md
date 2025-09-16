@@ -1,5 +1,5 @@
 +++
-title = "Küche und Grillplatz"
+title = "Küche"
 weight = 200
 +++
 

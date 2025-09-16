@@ -13,7 +13,7 @@ mitmachen, unabhängig von Erfahrung und Hintergrund.
 
 ## 🗣️ Das Plenum
 
-Wir treffen uns in regelmäßigen Abständen (etwa alle anderthalb Wochen) im Space
+Wir treffen uns in regelmäßigen Abständen (wechselnd zwischen Dienstag und Samstag) im Space
 zu einem Plenum. Dabei sprechen wir über wichtige Anliegen, planen Events und
 sammeln Meinungsbilder. Diese Treffen sind auch ein idealer Zeitpunkt für
 Neugierige um sich einen Eindruck von der Community zu verschaffen.
@@ -49,13 +49,13 @@ Es gibt auch hier einen öffentlichen Bereich, den alle einsehen dürfen.
 
 Angemeldete Mitglieder können sich im Wiki auch die Plenums-Protokolle durchlesen.
 
-## 📝 Pads und HedgeDoc
+## 📝 HedgeDoc
 
 Zusätzlich zum Wiki erstellen wir Dokumente gerne kollaborativ mithilfe von
 [hedgedoc](https://md.mainframe.io). Es gibt hier keine Übersichtsseite mit allen Links
 -- vielmehr werden die Links asynchron an alle Interessierten verteilt.
 
-Über die Pads werden zum Beispiel Grillabende, Aufräumaktionen oder
+Über diese sogenannten "Pads" oder "MDs" werden zum Beispiel Grillabende, Aufräumaktionen oder
 Anschaffungen organisiert.
 
 ## 🧑‍💻 GitHub

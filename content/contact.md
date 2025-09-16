@@ -24,7 +24,7 @@ anrufen, dann machen wir dir auf.
 ## Anreise mit den Öffentlichen
 
 Die nächstgelegene Bushaltestelle ist Hauptbahnhof Süd. Von dort sieht man schon
-das ehemalige Postgebäude und es sind es nur wenige Schritte bis zum Mainframe.
+das ehemalige Postgebäude und es sind nur wenige Schritte bis zum Mainframe.
 Alternativ kannst du auch an der Haltestelle ZOB aussteigen und durch den
 Hauptbahnhof zu uns gelangen.
 

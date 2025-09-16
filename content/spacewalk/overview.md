@@ -12,7 +12,7 @@ darin enthaltenen Räume beziehungsweise Werkstätten.
 
 Du kannst wahlweise den Mainframe mithilfe eines
 [virtuellen 3D-Rundgangs](../../images/panorama) oder mit einer
-[interaktiven Karte](https://map.kreativitaet-trifft-technik.de/) erkunden.
+[interaktiven Karte](https://map.mainframe.io/) erkunden.
 
 Dort sieht man den großen Teil unserer Räume. Die Radstelle, sowie die Holz- und
 Metall-Werkstatt befinden sich im Erdgeschoss beziehungsweise im Keller und sind
@@ -65,16 +65,14 @@ nicht mit auf der Karte.
 
 - 🔬 [**REM (Raster-Elektronen-Mikroskop)**](@/spacewalk/rem.md)
 
-  Wir haben bei uns im Space ein Raster-Elektronen-Mikroskop aus den
-  70er-Jahren, das aktuell funktionsfähig ist und für Demo-Zwecke verwendet
-  wird.
+  Wir haben bei uns im Space ein Raster-Elektronen-Mikroskop aus den 70er-Jahren,
+  welches uns erlaubt Objekte weit über dem optischen Limit vergrößert zu betrachten.
 
-- 🍳 [**Küche und Grillplatz**](@/spacewalk/kueche.md)
+- 🍳 [**Küche**](@/spacewalk/kueche.md)
 
   Es gibt bei uns eine Gemeinschaftsküche (Selbstversorger-Küche) zum Kochen,
-  Essen und für geselliges Beisammensein sowie einen überdachten Grillplatz. In
-  der Küche befindet sich auch unser Shop-System, in dem man Getränke und Snacks
-  erwerben kann.
+  Essen und für geselliges Beisammensein. In der Küche befindet sich auch
+  unser Shop-System, in dem man Getränke und Snacks erwerben kann.
 
 - 🛋 [**Conference, Lounges und Freifläche**](@/spacewalk/lounge.md)
 

@@ -83,7 +83,7 @@ können auch gut mit etwas dickerem Stoff umgehen.
 
 #### Overlock-Nähmaschine
 
-Overlock-Nähte sind flexibel, sauber und eignen sich gut, für Kleidung.
+Overlock-Nähte sind flexibel, sauber und eignen sich gut für Kleidung.
 Wir haben eine Overlock-Maschine von Singer im Space.
 
 {{ resize_image(path="/media/spacewalk/machines/sewing-machines-overlock.jpg", height=500, width=500, op="fit") }}
