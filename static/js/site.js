@@ -151,21 +151,41 @@ window.addEventListener("keydown", e => {
     return true;
 });
 
-function isDarkModeEnabled() {
-    return window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
-}
+const albumImageContainer = document.getElementById('album-image');
 
-function refreshDarkMode() {
-    let elem = document.getElementById("img-icon-lang");
+let startX = 0;
+let endX = 0;
 
-    if (!elem) {
-        setTimeout(() => {
-            elem = document.getElementById("img-icon-lang");
-            if (elem) {
-                refreshDarkMode();
+if (albumImageContainer) {
+    albumImageContainer.addEventListener('touchstart', function (e) {
+        startX = e.touches[0].clientX;
+    }, false);
+
+    albumImageContainer.addEventListener('touchmove', function (e) {
+        endX = e.touches[0].clientX;
+    }, false);
+
+    albumImageContainer.addEventListener('touchend', function () {
+        const threshold = 50;
+
+        if (startX && endX) {
+            const diff = endX - startX;
+
+            let btn;
+            if (Math.abs(diff) > threshold) {
+                if (diff > 0) {
+                    btn = document.getElementById('album-image-previous');
+                } else {
+                    btn = document.getElementById('album-image-next');
+                }
             }
-        }, 5)
-    }
-}
 
-refreshDarkMode();
+            if (btn) {
+                btn.click();
+            }
+        }
+
+        startX = 0;
+        endX = 0;
+    }, false);
+}
