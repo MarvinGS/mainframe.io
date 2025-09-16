@@ -14,9 +14,6 @@
 - Write more about self-organised groups and how we make decisions
 - Move space status to top on mobile
 - Add more than 5 calendar appointments in the short view
-- Make IFS previous/next consistent: right click should be previous because this
-  is what people usually click --> when right clicking the most current image
-  they should not end up at IFS 0 by mistake
 
 ## Development
 
