@@ -1,7 +1,8 @@
 @use "../_imports/pannellum.css";
 
-$primary: #42BAFF;
-$green: #0ce3ac;
+$primary: #00A0FF;
+$green: #00bc8c;
+$dark: #222222;
 
 @import "../_imports/bootstrap-5.3.7/scss/bootstrap";
 
@@ -32,7 +33,7 @@ img {
     font-size: 2rem - (0.167rem * $i);
   }
 
-  h#{$i}>a {
+  h#{$i} > a {
     color: var(--bs-primary);
     text-decoration: none;
   }
