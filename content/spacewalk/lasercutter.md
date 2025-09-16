@@ -8,7 +8,7 @@ Pappe mithilfe eines gebündelten Laserstrahls schneiden oder gravieren kann.
 
 Der Laser verdampft oder verbrennt das Material entlang einer vorgegebenen
 Linie. Gesteuert wird unser Lasercutter per Computer mithilfe eines Programms,
-das Vektorgrafiken (in diesem Fall DXF-Dateien) einliest.
+das Vektorgrafiken einliest.
 
 ![Der Lasercutter](../../media/spacewalk/machines/lasercutter-thumbnail.jpg)
 
@@ -31,7 +31,7 @@ Gravuren durchaus möglich.
 
 {{ resize_image(path="/media/spacewalk/machines/lasercutter-0006.jpg", height=500, width=300, op="fit") }}
 
-Der Lasercutter wird auch oft Betrieb genommen, wenn Programmierclubs
+Der Lasercutter wird auch oft in Betrieb genommen, wenn Programmierclubs
 stattfinden. Hier können dann zum Beispiel Namensschilder für die Kinder und
 Jugendlichen gelasert werden. Einige Teilnehmer*innen bringen auch schon eigene
 Laser-Vorlagen mit.

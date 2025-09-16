@@ -14,7 +14,7 @@ Egal ob du ein Ersatzteil 3D-drucken willst, hübsche Namensschilder mit einem
 Lasercutter ausschneiden möchtest, eine Platine löten willst, oder
 neugierig bist, wie eine Strickmaschine funktioniert -- hier bist du richtig.
 
-Der Mainframe ist **täglich ab spätestens 19:00 Uhr geöffnet** (häufig bereits früher)
+Der Mainframe ist an den meisten Tagen **ab spätestens 19:00 Uhr geöffnet** (häufig sogar bereits früher!)
 und Interessierte, egal mit welchem Hintergrund, sind jederzeit
 willkommen.  Wenn du vorbei kommen willst, schau einfach mal in die
 [Öffnungszeiten](@/about/opening_times.md) rein -- eine Anmeldung brauchst du nicht.
@@ -32,8 +32,8 @@ Die Übergänge von einem Hackspace zu einem **Fablab** beziehungsweise einem
 alle diese Begriffe passen zu uns. Oft sagen wir einfach nur "**Space**".
 
 Dabei ist der Mainframe mehr als nur eine Werkstatt: wir sind eine Community, in
-denen sich alle gegenseitig helfen und neben den tollen Maschinen haben wir hier
-auch Raum für für viele andere Formate, wie zum Beispiel Programmierclubs,
+der sich alle gegenseitig helfen und neben den tollen Maschinen haben wir hier
+auch Raum für viele andere Formate, wie zum Beispiel Programmierclubs,
 Spieleabende, Finanzvorträge, oder sogar Theatergruppen.
 
 ## Welche Ausstattung hat der Mainframe?
@@ -76,7 +76,7 @@ den Space weiter zu betreiben.
 
 Auf jeden Fall! Egal ob innerhalb Deutschlands oder weltweit, überall haben sich
 Leute zusammengetan um Hackspaces oder Makerspaces zu gründen und die meisten
-freuen sich genau so über einen Besuch wie wir. Wenn du gerade unterwegs bist,
+freuen sich genauso über einen Besuch wie wir. Wenn du gerade unterwegs bist,
 schau doch mal für deine Stadt nach. Die
 [Karte von mapall.space](https://mapall.space/index.php?menu=home)
 bietet eine tolle Übersicht über einige, aber nicht alle Spaces, die es so gibt.
