@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 import json
-from typing import Optional
-import requests
 import os
 from datetime import datetime
+from typing import Optional
+
+import requests
 
 languages = ["de"]
 
@@ -140,8 +141,8 @@ def create_ifs_markdown_pages(path: str, images: list):
                 path,
                 lang,
                 images[i],
-                images[(i - 1) % len(images)],
-                images[(i + 1) % len(images)]
+                images[(i + 1) % len(images)],
+                images[(i - 1) % len(images)]
             )
 
 
