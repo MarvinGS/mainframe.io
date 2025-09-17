@@ -34,7 +34,7 @@ Personen. Hier sind auch eine Beamer-Leinwand sowie Lighthouses für VR-Brillen
 angebracht.
 
 In der kleinen Lounge vorne sind zwei Sofas. Hier befindet sich auch unsere
-"Sample-Ecke" mit diversen Ausstellungsstücken aus verschiedenen Bereichen im
+"Sample-Area" mit diversen Ausstellungsstücken aus verschiedenen Bereichen im
 Mainframe.
 
 Die Lounge ganz hinten im Space ist ein Ruheraum, der sich als Rückzugsort

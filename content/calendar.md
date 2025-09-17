@@ -3,7 +3,8 @@ title = "Termine"
 weight = 10
 +++
 
-In unserem Terminkalender findest du einen aktuellen Überblick über Veranstaltungen im Space -- sowohl regelmäßige Formate als auch einmalige Aktionen. Die meisten Termine enthalten kurze Beschreibungen mit weiteren Informationen.
+In unserem Terminkalender findest du einen aktuellen Überblick über Veranstaltungen im Space -- sowohl regelmäßige
+Formate als auch einmalige Aktionen. Die meisten Termine enthalten kurze Beschreibungen mit weiteren Informationen.
 
 {{ calendar() }}
 
@@ -26,7 +27,7 @@ Hier ist eine aktuelle Auswahl.
 
 ### 🚲 Radstelle -- Offene Fahrradwerkstatt
 
-* Möglichkeit zur eigenständigen Fahrradreparatur
+* Möglichkeit zur eigenständigen Fahrradreparatur in unserer [Fahrradwerkstatt](@/spacewalk/radstelle.md)
 * Werkzeug ist vorhanden, Unterstützung durch erfahrene Personen vor Ort
 * Ersatzteile sollten in der Regel selbst mitgebracht werden
 
@@ -60,8 +61,9 @@ Hier ist eine aktuelle Auswahl.
 
 Zusätzlich finden über das Jahr verteilt weitere Aktionen statt, zum Beispiel:
 
-* 🍳 Space Cooking -- gemeinsames Kochen oder Grillen im Space
-* 🧶 Workshops in der Schnittstelle -- z. B. T-Shirt-Druck oder kreatives Gestalten mit Textilien
+* 🍳 Space Cooking -- gemeinsames Kochen oder Grillen [im Space](@/spacewalk/kueche.md)
+* 🧶 Workshops in der [Schnittstelle](@/spacewalk/schnittstelle.md) -- z. B. T-Shirt-Druck oder kreatives Gestalten mit
+  Textilien
 * 🎭 Treffen der Gruppe „Improvisationstheater“
 * 🎮 „Offline-Gaming“, bei dem regelmäßig Konsolenspiele gespielt werden
 * 🏝️ Ferienpass-Aktionen in den Sommerferien in Kooperation mit der Stadt Oldenburg
