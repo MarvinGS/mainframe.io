@@ -2,8 +2,8 @@
 base_url = "https://ktt-ol.github.io"
 default_language = "de"
 
-title = "Kreativität trifft Technik e.V."
-description = "Website des Kreativität trifft Technik e.V."
+title = "Mainframe"
+description = "Website des Hackspace Mainframe"
 author = "Markus Framer"
 
 # Compilation settings
